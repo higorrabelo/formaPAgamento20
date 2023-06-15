@@ -1,0 +1,7558 @@
+02/06/2023 09:41:29
+TipoCampo 2021:516292******5136
+
+02/06/2023 09:41:29
+TipoCampo 2022:3104
+
+02/06/2023 09:41:29
+2090 - 6
+02/06/2023 09:41:30
+Rede Destino:Case 131: 00005
+
+02/06/2023 09:41:30
+132 Tipo Cartao:00002
+
+02/06/2023 09:41:35
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 0,10
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20010
+MU                      02/06/23 09:41
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020010
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 09:41:35
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 0,10
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20010
+MU                      02/06/23 09:41
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020010
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 09:41:35
+00
+02/06/2023 09:41:35
+Rede Destino:Case 131: 00005
+
+02/06/2023 09:41:35
+132 Tipo Cartao:00002
+
+02/06/2023 09:41:35
+133 NSU do SiTef:020010
+
+02/06/2023 09:41:35
+134 NSU do Host:999020010
+
+02/06/2023 09:41:35
+135 Código de Autorização:020010
+
+02/06/2023 09:41:35
+TipoCampo 2021:516292******5136
+
+02/06/2023 09:41:35
+TipoCampo 2022:3104
+
+02/06/2023 09:41:35
+Case 1: 060202001005
+
+02/06/2023 09:41:36
+Case 1: 060202001005
+
+02/06/2023 14:53:23
+TipoCampo 2021:523284******9840
+
+02/06/2023 14:53:23
+TipoCampo 2022:2907
+
+02/06/2023 14:53:23
+2090 - 6
+02/06/2023 14:53:24
+Rede Destino:Case 131: 00005
+
+02/06/2023 14:53:24
+132 Tipo Cartao:20001
+
+02/06/2023 14:53:40
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 11,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20011
+MU                      02/06/23 14:53
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020011
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 14:53:40
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 11,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20011
+MU                      02/06/23 14:53
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020011
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 14:53:41
+00
+02/06/2023 14:53:41
+Rede Destino:Case 131: 00005
+
+02/06/2023 14:53:41
+132 Tipo Cartao:20001
+
+02/06/2023 14:53:41
+133 NSU do SiTef:020011
+
+02/06/2023 14:53:41
+134 NSU do Host:999020011
+
+02/06/2023 14:53:41
+135 Código de Autorização:020011
+
+02/06/2023 14:53:41
+TipoCampo 2021:523284******9840
+
+02/06/2023 14:53:41
+TipoCampo 2022:2907
+
+02/06/2023 14:53:41
+Case 1: 060202001105
+
+02/06/2023 14:53:41
+Case 1: 060202001105
+
+02/06/2023 15:26:35
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:26:35
+TipoCampo 2022:2907
+
+02/06/2023 15:26:35
+2090 - 6
+02/06/2023 15:26:36
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:26:37
+132 Tipo Cartao:20001
+
+02/06/2023 15:26:41
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20012
+MU                      02/06/23 15:26
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020012
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 15:26:41
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20012
+MU                      02/06/23 15:26
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020012
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 15:26:42
+00
+02/06/2023 15:26:42
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:26:42
+132 Tipo Cartao:20001
+
+02/06/2023 15:26:42
+133 NSU do SiTef:020012
+
+02/06/2023 15:26:42
+134 NSU do Host:999020012
+
+02/06/2023 15:26:42
+135 Código de Autorização:020012
+
+02/06/2023 15:26:42
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:26:42
+TipoCampo 2022:2907
+
+02/06/2023 15:26:42
+Case 1: 060202001205
+
+02/06/2023 15:26:42
+Case 1: 060202001205
+
+02/06/2023 15:36:43
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:36:43
+TipoCampo 2022:2907
+
+02/06/2023 15:36:43
+2090 - 6
+02/06/2023 15:36:44
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:36:44
+132 Tipo Cartao:20001
+
+02/06/2023 15:36:50
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20013
+MU                      02/06/23 15:36
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020013
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 15:36:50
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20013
+MU                      02/06/23 15:36
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020013
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 15:36:50
+00
+02/06/2023 15:36:51
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:36:51
+132 Tipo Cartao:20001
+
+02/06/2023 15:36:51
+133 NSU do SiTef:020013
+
+02/06/2023 15:36:51
+134 NSU do Host:999020013
+
+02/06/2023 15:36:51
+135 Código de Autorização:020013
+
+02/06/2023 15:36:51
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:36:51
+TipoCampo 2022:2907
+
+02/06/2023 15:36:51
+Case 1: 060202001305
+
+02/06/2023 15:36:51
+Case 1: 060202001305
+
+02/06/2023 15:37:16
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:37:16
+TipoCampo 2022:2907
+
+02/06/2023 15:37:16
+2090 - 6
+02/06/2023 15:37:17
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:37:17
+132 Tipo Cartao:20001
+
+02/06/2023 15:37:22
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20014
+MU                      02/06/23 15:37
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020014
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 15:37:23
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20014
+MU                      02/06/23 15:37
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020014
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 15:37:23
+00
+02/06/2023 15:37:23
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:37:23
+132 Tipo Cartao:20001
+
+02/06/2023 15:37:23
+133 NSU do SiTef:020014
+
+02/06/2023 15:37:23
+134 NSU do Host:999020014
+
+02/06/2023 15:37:23
+135 Código de Autorização:020014
+
+02/06/2023 15:37:23
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:37:23
+TipoCampo 2022:2907
+
+02/06/2023 15:37:23
+Case 1: 060202001405
+
+02/06/2023 15:37:24
+Case 1: 060202001405
+
+02/06/2023 15:43:39
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:43:39
+TipoCampo 2022:2907
+
+02/06/2023 15:43:39
+2090 - 6
+02/06/2023 15:43:40
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:43:40
+132 Tipo Cartao:20001
+
+02/06/2023 15:43:46
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20015
+MU                      02/06/23 15:43
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020015
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 15:43:46
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20015
+MU                      02/06/23 15:43
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020015
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 15:43:46
+00
+02/06/2023 15:43:47
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:43:47
+132 Tipo Cartao:20001
+
+02/06/2023 15:43:47
+133 NSU do SiTef:020015
+
+02/06/2023 15:43:47
+134 NSU do Host:999020015
+
+02/06/2023 15:43:47
+135 Código de Autorização:020015
+
+02/06/2023 15:43:47
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:43:47
+TipoCampo 2022:2907
+
+02/06/2023 15:43:47
+Case 1: 060202001505
+
+02/06/2023 15:43:47
+Case 1: 060202001505
+
+02/06/2023 15:59:23
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:59:23
+TipoCampo 2022:2907
+
+02/06/2023 15:59:23
+2090 - 6
+02/06/2023 15:59:24
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:59:24
+132 Tipo Cartao:00002
+
+02/06/2023 15:59:31
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 20,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20016
+MU                      02/06/23 15:59
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020016
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 15:59:31
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 20,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20016
+MU                      02/06/23 15:59
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020016
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 15:59:31
+00
+02/06/2023 15:59:31
+Rede Destino:Case 131: 00005
+
+02/06/2023 15:59:31
+132 Tipo Cartao:00002
+
+02/06/2023 15:59:31
+133 NSU do SiTef:020016
+
+02/06/2023 15:59:31
+134 NSU do Host:999020016
+
+02/06/2023 15:59:31
+135 Código de Autorização:020016
+
+02/06/2023 15:59:31
+TipoCampo 2021:523284******9840
+
+02/06/2023 15:59:32
+TipoCampo 2022:2907
+
+02/06/2023 15:59:32
+Case 1: 060202001605
+
+02/06/2023 15:59:32
+Case 1: 060202001605
+
+02/06/2023 16:26:05
+TipoCampo 2021:400000******0044
+
+02/06/2023 16:26:11
+Rede Destino:Case 131: 00125
+
+02/06/2023 16:26:25
+TipoCampo 2021:400000******0044
+
+02/06/2023 16:26:25
+TipoCampo 2022:2612
+
+02/06/2023 16:26:25
+2090 - 99
+02/06/2023 16:26:28
+132 Tipo Cartao:00001
+
+02/06/2023 16:27:11
+Case 121:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+               SIMULADO
+                CIELO
+             VISA CREDITO
+           400000******0044
+1a VIA-CLIENTE           AUT=020017
+DOC=020017  02/06/23     16:27 ONL-X
+.....S...I...M...U...L...A...D...O....
+VALOR:                           10,00
+EMBARQ.:                          0,10
+SERVICO:                          0,10
+FINAL:                           10,20
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+02/06/2023 16:27:11
+Case 122:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+               SIMULADO
+                CIELO
+             VISA CREDITO
+           400000******0044
+2a VIA-ESTABELECIMENTO   AUT=020017
+0020000080750001/PDV=24000002
+CODIGO DA VENDA:     1234567890123456
+DOC=020017  02/06/23     16:27 ONL-X
+.....S...I...M...U...L...A...D...O....
+VALOR:                           10,00
+EMBARQ.:                          0,10
+SERVICO:                          0,10
+FINAL:                           10,20
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+______________________________________
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+02/06/2023 16:27:12
+00
+02/06/2023 16:27:12
+Rede Destino:Case 131: 00125
+
+02/06/2023 16:27:12
+133 NSU do SiTef:020017
+
+02/06/2023 16:27:12
+134 NSU do Host:000020017
+
+02/06/2023 16:27:12
+135 Código de Autorização:020017
+
+02/06/2023 16:27:14
+TipoCampo 2021:400000******0044
+
+02/06/2023 16:27:14
+TipoCampo 2022:2612
+
+02/06/2023 16:27:17
+Case 1: 0602020017AP
+
+02/06/2023 16:27:17
+Case 1: 0602020017AP
+
+02/06/2023 16:29:38
+Case 122:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+                CIELO
+             VISA CREDITO
+            *REIMPRESSAO*
+           400000******0044
+2a VIA-ESTABELECIMENTO   AUT=020017
+0020000080750001/PDV=24000002
+CODIGO DA VENDA:     1234567890123456
+DOC=020017  02/06/23     16:27 ONL-X
+VENDA A CREDITO
+            *REIMPRESSAO*
+VALOR:                           10,00
+EMBARQ.:                          0,10
+SERVICO:                          0,10
+FINAL:                           10,20
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+______________________________________
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+02/06/2023 16:29:38
+Case 122:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+                CIELO
+             VISA CREDITO
+            *REIMPRESSAO*
+           400000******0044
+2a VIA-ESTABELECIMENTO   AUT=020017
+0020000080750001/PDV=24000002
+CODIGO DA VENDA:     1234567890123456
+DOC=020017  02/06/23     16:27 ONL-X
+VENDA A CREDITO
+            *REIMPRESSAO*
+VALOR:                           10,00
+EMBARQ.:                          0,10
+SERVICO:                          0,10
+FINAL:                           10,20
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+______________________________________
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+02/06/2023 17:23:26
+TipoCampo 2021:523284******9840
+
+02/06/2023 17:23:26
+TipoCampo 2022:2907
+
+02/06/2023 17:23:26
+2090 - 6
+02/06/2023 17:23:27
+Rede Destino:Case 131: 00005
+
+02/06/2023 17:23:27
+132 Tipo Cartao:20001
+
+02/06/2023 17:23:34
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20018
+MU                      02/06/23 17:23
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020018
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 17:23:34
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20018
+MU                      02/06/23 17:23
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020018
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 17:23:34
+00
+02/06/2023 17:23:34
+Rede Destino:Case 131: 00005
+
+02/06/2023 17:23:34
+132 Tipo Cartao:20001
+
+02/06/2023 17:23:34
+133 NSU do SiTef:020018
+
+02/06/2023 17:23:34
+134 NSU do Host:999020018
+
+02/06/2023 17:23:34
+135 Código de Autorização:020018
+
+02/06/2023 17:23:35
+TipoCampo 2021:523284******9840
+
+02/06/2023 17:23:35
+TipoCampo 2022:2907
+
+02/06/2023 17:23:35
+Case 1: 060202001805
+
+02/06/2023 17:23:35
+Case 1: 060202001805
+
+02/06/2023 17:37:34
+TipoCampo 2021:523284******9840
+
+02/06/2023 17:37:34
+TipoCampo 2022:2907
+
+02/06/2023 17:37:34
+2090 - 6
+02/06/2023 17:37:35
+Rede Destino:Case 131: 00005
+
+02/06/2023 17:37:35
+132 Tipo Cartao:20001
+
+02/06/2023 17:37:41
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20019
+MU                      02/06/23 17:37
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020019
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+02/06/2023 17:37:41
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 20019
+MU                      02/06/23 17:37
+LA                    ID PDV: SD123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999020019
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+02/06/2023 17:37:41
+00
+02/06/2023 17:37:42
+Rede Destino:Case 131: 00005
+
+02/06/2023 17:37:42
+132 Tipo Cartao:20001
+
+02/06/2023 17:37:42
+133 NSU do SiTef:020019
+
+02/06/2023 17:37:42
+134 NSU do Host:999020019
+
+02/06/2023 17:37:42
+135 Código de Autorização:020019
+
+02/06/2023 17:37:42
+TipoCampo 2021:523284******9840
+
+02/06/2023 17:37:42
+TipoCampo 2022:2907
+
+02/06/2023 17:37:42
+Case 1: 060202001905
+
+02/06/2023 17:37:42
+Case 1: 060202001905
+
+05/06/2023 10:17:29
+TipoCampo 2021:523284******9840
+
+05/06/2023 10:17:29
+TipoCampo 2022:2907
+
+05/06/2023 10:17:29
+2090 - 6
+05/06/2023 10:17:30
+Rede Destino:Case 131: 00005
+
+05/06/2023 10:17:30
+132 Tipo Cartao:20001
+
+05/06/2023 10:17:37
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50003
+MU                      05/06/23 10:17
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050003
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 10:17:37
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50003
+MU                      05/06/23 10:17
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050003
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 10:17:38
+00
+05/06/2023 10:17:38
+Rede Destino:Case 131: 00005
+
+05/06/2023 10:17:38
+132 Tipo Cartao:20001
+
+05/06/2023 10:17:38
+133 NSU do SiTef:050003
+
+05/06/2023 10:17:38
+134 NSU do Host:999050003
+
+05/06/2023 10:17:38
+135 Código de Autorização:050003
+
+05/06/2023 10:17:38
+TipoCampo 2021:523284******9840
+
+05/06/2023 10:17:38
+TipoCampo 2022:2907
+
+05/06/2023 10:17:38
+Case 1: 060505000305
+
+05/06/2023 10:17:38
+Case 1: 060505000305
+
+05/06/2023 10:45:54
+TipoCampo 2021:523284******9840
+
+05/06/2023 10:45:54
+TipoCampo 2022:2907
+
+05/06/2023 10:45:54
+2090 - 6
+05/06/2023 10:45:55
+Rede Destino:Case 131: 00005
+
+05/06/2023 10:45:55
+132 Tipo Cartao:20001
+
+05/06/2023 10:46:01
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50004
+MU                      05/06/23 10:46
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050004
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 10:46:02
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50004
+MU                      05/06/23 10:46
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050004
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 10:46:02
+00
+05/06/2023 10:46:02
+Rede Destino:Case 131: 00005
+
+05/06/2023 10:46:02
+132 Tipo Cartao:20001
+
+05/06/2023 10:46:02
+133 NSU do SiTef:050004
+
+05/06/2023 10:46:02
+134 NSU do Host:999050004
+
+05/06/2023 10:46:02
+135 Código de Autorização:050004
+
+05/06/2023 10:46:02
+TipoCampo 2021:523284******9840
+
+05/06/2023 10:46:02
+TipoCampo 2022:2907
+
+05/06/2023 10:46:02
+Case 1: 060505000405
+
+05/06/2023 10:46:03
+Case 1: 060505000405
+
+05/06/2023 10:46:58
+TipoCampo 2021:523284******9840
+
+05/06/2023 10:46:58
+TipoCampo 2022:2907
+
+05/06/2023 10:46:58
+2090 - 6
+05/06/2023 10:46:59
+Rede Destino:Case 131: 00005
+
+05/06/2023 10:46:59
+132 Tipo Cartao:20001
+
+05/06/2023 10:47:06
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50005
+MU                      05/06/23 10:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050005
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 10:47:06
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50005
+MU                      05/06/23 10:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050005
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 10:47:06
+00
+05/06/2023 10:47:07
+Rede Destino:Case 131: 00005
+
+05/06/2023 10:47:07
+132 Tipo Cartao:20001
+
+05/06/2023 10:47:07
+133 NSU do SiTef:050005
+
+05/06/2023 10:47:07
+134 NSU do Host:999050005
+
+05/06/2023 10:47:07
+135 Código de Autorização:050005
+
+05/06/2023 10:47:07
+TipoCampo 2021:523284******9840
+
+05/06/2023 10:47:07
+TipoCampo 2022:2907
+
+05/06/2023 10:47:07
+Case 1: 060505000505
+
+05/06/2023 10:47:07
+Case 1: 060505000505
+
+05/06/2023 11:28:22
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:28:22
+TipoCampo 2022:2907
+
+05/06/2023 11:28:22
+2090 - 6
+05/06/2023 11:28:24
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:28:24
+132 Tipo Cartao:20001
+
+05/06/2023 11:28:44
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,50
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50006
+MU                      05/06/23 11:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050006
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 11:28:44
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,50
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50006
+MU                      05/06/23 11:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050006
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 11:28:44
+00
+05/06/2023 11:28:44
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:28:44
+132 Tipo Cartao:20001
+
+05/06/2023 11:28:44
+133 NSU do SiTef:050006
+
+05/06/2023 11:28:44
+134 NSU do Host:999050006
+
+05/06/2023 11:28:44
+135 Código de Autorização:050006
+
+05/06/2023 11:28:44
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:28:44
+TipoCampo 2022:2907
+
+05/06/2023 11:28:44
+Case 1: 060505000605
+
+05/06/2023 11:28:45
+Case 1: 060505000605
+
+05/06/2023 11:32:03
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:32:03
+TipoCampo 2022:2907
+
+05/06/2023 11:32:03
+2090 - 6
+05/06/2023 11:32:04
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:32:04
+132 Tipo Cartao:00002
+
+05/06/2023 11:32:20
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50007
+MU                      05/06/23 11:32
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050007
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 11:32:20
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50007
+MU                      05/06/23 11:32
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050007
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 11:32:20
+00
+05/06/2023 11:32:21
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:32:21
+132 Tipo Cartao:00002
+
+05/06/2023 11:32:21
+133 NSU do SiTef:050007
+
+05/06/2023 11:32:21
+134 NSU do Host:999050007
+
+05/06/2023 11:32:21
+135 Código de Autorização:050007
+
+05/06/2023 11:32:21
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:32:21
+TipoCampo 2022:2907
+
+05/06/2023 11:32:21
+Case 1: 060505000705
+
+05/06/2023 11:32:21
+Case 1: 060505000705
+
+05/06/2023 11:36:48
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:36:48
+TipoCampo 2022:2907
+
+05/06/2023 11:36:48
+2090 - 6
+05/06/2023 11:36:49
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:36:50
+132 Tipo Cartao:20001
+
+05/06/2023 11:36:54
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 25,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50008
+MU                      05/06/23 11:36
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050008
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 11:36:54
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 25,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50008
+MU                      05/06/23 11:36
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050008
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 11:36:54
+00
+05/06/2023 11:36:54
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:36:54
+132 Tipo Cartao:20001
+
+05/06/2023 11:36:54
+133 NSU do SiTef:050008
+
+05/06/2023 11:36:54
+134 NSU do Host:999050008
+
+05/06/2023 11:36:54
+135 Código de Autorização:050008
+
+05/06/2023 11:36:54
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:36:54
+TipoCampo 2022:2907
+
+05/06/2023 11:36:54
+Case 1: 060505000805
+
+05/06/2023 11:36:55
+Case 1: 060505000805
+
+05/06/2023 11:37:36
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:37:36
+TipoCampo 2022:2907
+
+05/06/2023 11:37:36
+2090 - 6
+05/06/2023 11:37:37
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:37:37
+132 Tipo Cartao:20001
+
+05/06/2023 11:37:43
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 0,01
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50009
+MU                      05/06/23 11:37
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050009
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 11:37:43
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 0,01
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50009
+MU                      05/06/23 11:37
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050009
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 11:37:43
+00
+05/06/2023 11:37:43
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:37:43
+132 Tipo Cartao:20001
+
+05/06/2023 11:37:43
+133 NSU do SiTef:050009
+
+05/06/2023 11:37:43
+134 NSU do Host:999050009
+
+05/06/2023 11:37:43
+135 Código de Autorização:050009
+
+05/06/2023 11:37:43
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:37:43
+TipoCampo 2022:2907
+
+05/06/2023 11:37:43
+Case 1: 060505000905
+
+05/06/2023 11:37:44
+Case 1: 060505000905
+
+05/06/2023 11:42:32
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:42:32
+TipoCampo 2022:2907
+
+05/06/2023 11:42:32
+2090 - 6
+05/06/2023 11:42:34
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:42:34
+132 Tipo Cartao:20001
+
+05/06/2023 11:42:40
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 0,01
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50010
+MU                      05/06/23 11:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050010
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 11:42:40
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 0,01
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50010
+MU                      05/06/23 11:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050010
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 11:42:41
+00
+05/06/2023 11:42:41
+Rede Destino:Case 131: 00005
+
+05/06/2023 11:42:41
+132 Tipo Cartao:20001
+
+05/06/2023 11:42:41
+133 NSU do SiTef:050010
+
+05/06/2023 11:42:41
+134 NSU do Host:999050010
+
+05/06/2023 11:42:41
+135 Código de Autorização:050010
+
+05/06/2023 11:42:41
+TipoCampo 2021:523284******9840
+
+05/06/2023 11:42:41
+TipoCampo 2022:2907
+
+05/06/2023 11:42:41
+Case 1: 060505001005
+
+05/06/2023 11:42:41
+Case 1: 060505001005
+
+05/06/2023 13:37:03
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:37:03
+TipoCampo 2022:2907
+
+05/06/2023 13:37:03
+2090 - 6
+05/06/2023 13:37:04
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:37:04
+132 Tipo Cartao:20001
+
+05/06/2023 13:37:10
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50011
+MU                      05/06/23 13:37
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050011
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 13:37:10
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50011
+MU                      05/06/23 13:37
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050011
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 13:37:10
+00
+05/06/2023 13:37:11
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:37:11
+132 Tipo Cartao:20001
+
+05/06/2023 13:37:11
+133 NSU do SiTef:050011
+
+05/06/2023 13:37:11
+134 NSU do Host:999050011
+
+05/06/2023 13:37:11
+135 Código de Autorização:050011
+
+05/06/2023 13:37:11
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:37:11
+TipoCampo 2022:2907
+
+05/06/2023 13:37:11
+Case 1: 060505001105
+
+05/06/2023 13:37:11
+Case 1: 060505001105
+
+05/06/2023 13:51:12
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:51:12
+TipoCampo 2022:2907
+
+05/06/2023 13:51:12
+2090 - 6
+05/06/2023 13:51:13
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:51:13
+132 Tipo Cartao:20001
+
+05/06/2023 13:52:08
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50012
+MU                      05/06/23 13:52
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050012
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 13:52:08
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50012
+MU                      05/06/23 13:52
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050012
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 13:52:09
+00
+05/06/2023 13:52:09
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:52:09
+132 Tipo Cartao:20001
+
+05/06/2023 13:52:09
+133 NSU do SiTef:050012
+
+05/06/2023 13:52:09
+134 NSU do Host:999050012
+
+05/06/2023 13:52:09
+135 Código de Autorização:050012
+
+05/06/2023 13:52:09
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:52:09
+TipoCampo 2022:2907
+
+05/06/2023 13:52:09
+Case 1: 060505001205
+
+05/06/2023 13:52:09
+Case 1: 060505001205
+
+05/06/2023 13:53:07
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:53:07
+TipoCampo 2022:2907
+
+05/06/2023 13:53:07
+TipoCampo 2023:RABELO/HIGOR R M
+
+05/06/2023 13:53:08
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:53:08
+132 Tipo Cartao:20001
+
+05/06/2023 13:53:13
+S4
+05/06/2023 13:53:54
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:53:54
+TipoCampo 2022:2907
+
+05/06/2023 13:53:55
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:53:55
+132 Tipo Cartao:20001
+
+05/06/2023 13:53:57
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200020
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50013
+MU                      05/06/23 13:53
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050013
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+05/06/2023 13:53:57
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200020
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50013
+MU                      05/06/23 13:53
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050013
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 13:53:58
+00
+05/06/2023 13:53:58
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:53:58
+132 Tipo Cartao:20001
+
+05/06/2023 13:53:58
+133 NSU do SiTef:050013
+
+05/06/2023 13:53:58
+134 NSU do Host:999050013
+
+05/06/2023 13:53:58
+135 Código de Autorização:050012
+
+05/06/2023 13:53:58
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:53:58
+TipoCampo 2022:2907
+
+05/06/2023 13:53:58
+Case 1: 060505001305
+
+05/06/2023 13:53:58
+Case 1: 060505001305
+
+05/06/2023 13:55:00
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:55:00
+TipoCampo 2022:2907
+
+05/06/2023 13:55:00
+2090 - 6
+05/06/2023 13:55:01
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:55:01
+132 Tipo Cartao:00002
+
+05/06/2023 13:55:07
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50014
+MU                      05/06/23 13:55
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050014
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 13:55:08
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50014
+MU                      05/06/23 13:55
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050014
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 13:55:08
+00
+05/06/2023 13:55:08
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:55:08
+132 Tipo Cartao:00002
+
+05/06/2023 13:55:08
+133 NSU do SiTef:050014
+
+05/06/2023 13:55:08
+134 NSU do Host:999050014
+
+05/06/2023 13:55:08
+135 Código de Autorização:050014
+
+05/06/2023 13:55:08
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:55:08
+TipoCampo 2022:2907
+
+05/06/2023 13:55:08
+Case 1: 060505001405
+
+05/06/2023 13:55:09
+Case 1: 060505001405
+
+05/06/2023 13:56:40
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:56:40
+TipoCampo 2022:2907
+
+05/06/2023 13:56:41
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:56:41
+132 Tipo Cartao:00002
+
+05/06/2023 13:56:43
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50015
+MU                      05/06/23 13:56
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050015
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+05/06/2023 13:56:43
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50015
+MU                      05/06/23 13:56
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050015
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 13:56:43
+00
+05/06/2023 13:56:44
+Rede Destino:Case 131: 00005
+
+05/06/2023 13:56:44
+132 Tipo Cartao:00002
+
+05/06/2023 13:56:44
+133 NSU do SiTef:050015
+
+05/06/2023 13:56:44
+134 NSU do Host:999050015
+
+05/06/2023 13:56:44
+135 Código de Autorização:050014
+
+05/06/2023 13:56:44
+TipoCampo 2021:523284******9840
+
+05/06/2023 13:56:44
+TipoCampo 2022:2907
+
+05/06/2023 13:56:44
+Case 1: 060505001505
+
+05/06/2023 13:56:44
+Case 1: 060505001505
+
+05/06/2023 14:26:08
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:26:08
+TipoCampo 2022:2907
+
+05/06/2023 14:26:08
+2090 - 6
+05/06/2023 14:26:09
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:26:09
+132 Tipo Cartao:20001
+
+05/06/2023 14:26:14
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50016
+MU                      05/06/23 14:26
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050016
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:26:14
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50016
+MU                      05/06/23 14:26
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050016
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:26:14
+00
+05/06/2023 14:26:14
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:26:14
+132 Tipo Cartao:20001
+
+05/06/2023 14:26:14
+133 NSU do SiTef:050016
+
+05/06/2023 14:26:14
+134 NSU do Host:999050016
+
+05/06/2023 14:26:14
+135 Código de Autorização:050016
+
+05/06/2023 14:26:15
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:26:15
+TipoCampo 2022:2907
+
+05/06/2023 14:26:15
+Case 1: 060505001605
+
+05/06/2023 14:26:15
+Case 1: 060505001605
+
+05/06/2023 14:30:28
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:30:28
+TipoCampo 2022:2907
+
+05/06/2023 14:30:28
+2090 - 6
+05/06/2023 14:30:29
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:30:29
+132 Tipo Cartao:20001
+
+05/06/2023 14:30:34
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50017
+MU                      05/06/23 14:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050017
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:30:34
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50017
+MU                      05/06/23 14:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050017
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:30:35
+00
+05/06/2023 14:30:35
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:30:35
+132 Tipo Cartao:20001
+
+05/06/2023 14:30:35
+133 NSU do SiTef:050017
+
+05/06/2023 14:30:35
+134 NSU do Host:999050017
+
+05/06/2023 14:30:35
+135 Código de Autorização:050017
+
+05/06/2023 14:30:35
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:30:35
+TipoCampo 2022:2907
+
+05/06/2023 14:30:35
+Case 1: 060505001705
+
+05/06/2023 14:30:35
+Case 1: 060505001705
+
+05/06/2023 14:31:58
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:31:58
+TipoCampo 2022:2907
+
+05/06/2023 14:31:58
+2090 - 6
+05/06/2023 14:31:59
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:31:59
+132 Tipo Cartao:20001
+
+05/06/2023 14:32:05
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50018
+MU                      05/06/23 14:32
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050018
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:32:05
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50018
+MU                      05/06/23 14:32
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050018
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:32:05
+00
+05/06/2023 14:32:06
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:32:06
+132 Tipo Cartao:20001
+
+05/06/2023 14:32:06
+133 NSU do SiTef:050018
+
+05/06/2023 14:32:06
+134 NSU do Host:999050018
+
+05/06/2023 14:32:06
+135 Código de Autorização:050018
+
+05/06/2023 14:32:06
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:32:06
+TipoCampo 2022:2907
+
+05/06/2023 14:32:06
+Case 1: 060505001805
+
+05/06/2023 14:32:06
+Case 1: 060505001805
+
+05/06/2023 14:36:06
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:36:06
+TipoCampo 2022:2907
+
+05/06/2023 14:36:06
+2090 - 6
+05/06/2023 14:36:07
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:36:07
+132 Tipo Cartao:20001
+
+05/06/2023 14:36:11
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 6,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50019
+MU                      05/06/23 14:36
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050019
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:36:11
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 6,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50019
+MU                      05/06/23 14:36
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050019
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:36:12
+00
+05/06/2023 14:36:12
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:36:12
+132 Tipo Cartao:20001
+
+05/06/2023 14:36:12
+133 NSU do SiTef:050019
+
+05/06/2023 14:36:12
+134 NSU do Host:999050019
+
+05/06/2023 14:36:12
+135 Código de Autorização:050019
+
+05/06/2023 14:36:12
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:36:12
+TipoCampo 2022:2907
+
+05/06/2023 14:36:12
+Case 1: 060505001905
+
+05/06/2023 14:36:12
+Case 1: 060505001905
+
+05/06/2023 14:39:20
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:39:20
+TipoCampo 2022:2907
+
+05/06/2023 14:39:20
+2090 - 6
+05/06/2023 14:39:21
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:39:21
+132 Tipo Cartao:20001
+
+05/06/2023 14:39:25
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 7,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50020
+MU                      05/06/23 14:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050020
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:39:26
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 7,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50020
+MU                      05/06/23 14:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050020
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:39:26
+00
+05/06/2023 14:39:26
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:39:26
+132 Tipo Cartao:20001
+
+05/06/2023 14:39:26
+133 NSU do SiTef:050020
+
+05/06/2023 14:39:26
+134 NSU do Host:999050020
+
+05/06/2023 14:39:26
+135 Código de Autorização:050020
+
+05/06/2023 14:39:26
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:39:26
+TipoCampo 2022:2907
+
+05/06/2023 14:39:26
+Case 1: 060505002005
+
+05/06/2023 14:39:27
+Case 1: 060505002005
+
+05/06/2023 14:42:14
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:42:14
+TipoCampo 2022:2907
+
+05/06/2023 14:42:14
+2090 - 6
+05/06/2023 14:42:15
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:42:15
+132 Tipo Cartao:20001
+
+05/06/2023 14:42:23
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50021
+MU                      05/06/23 14:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050021
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:42:23
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50021
+MU                      05/06/23 14:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050021
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:42:24
+00
+05/06/2023 14:42:24
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:42:24
+132 Tipo Cartao:20001
+
+05/06/2023 14:42:24
+133 NSU do SiTef:050021
+
+05/06/2023 14:42:24
+134 NSU do Host:999050021
+
+05/06/2023 14:42:24
+135 Código de Autorização:050021
+
+05/06/2023 14:42:24
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:42:24
+TipoCampo 2022:2907
+
+05/06/2023 14:42:24
+Case 1: 060505002105
+
+05/06/2023 14:42:24
+Case 1: 060505002105
+
+05/06/2023 14:43:06
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:43:06
+TipoCampo 2022:2907
+
+05/06/2023 14:43:06
+2090 - 6
+05/06/2023 14:43:07
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:43:07
+132 Tipo Cartao:20001
+
+05/06/2023 14:43:14
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50022
+MU                      05/06/23 14:43
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050022
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:43:14
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50022
+MU                      05/06/23 14:43
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050022
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:43:14
+00
+05/06/2023 14:43:15
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:43:15
+132 Tipo Cartao:20001
+
+05/06/2023 14:43:15
+133 NSU do SiTef:050022
+
+05/06/2023 14:43:15
+134 NSU do Host:999050022
+
+05/06/2023 14:43:15
+135 Código de Autorização:050022
+
+05/06/2023 14:43:15
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:43:15
+TipoCampo 2022:2907
+
+05/06/2023 14:43:15
+Case 1: 060505002205
+
+05/06/2023 14:43:15
+Case 1: 060505002205
+
+05/06/2023 14:43:46
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:43:46
+TipoCampo 2022:2907
+
+05/06/2023 14:43:46
+2090 - 6
+05/06/2023 14:43:47
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:43:47
+132 Tipo Cartao:20001
+
+05/06/2023 14:43:52
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 14,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50023
+MU                      05/06/23 14:43
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050023
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:43:52
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 14,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50023
+MU                      05/06/23 14:43
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050023
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:43:52
+00
+05/06/2023 14:43:53
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:43:53
+132 Tipo Cartao:20001
+
+05/06/2023 14:43:53
+133 NSU do SiTef:050023
+
+05/06/2023 14:43:53
+134 NSU do Host:999050023
+
+05/06/2023 14:43:53
+135 Código de Autorização:050023
+
+05/06/2023 14:43:53
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:43:53
+TipoCampo 2022:2907
+
+05/06/2023 14:43:53
+Case 1: 060505002305
+
+05/06/2023 14:43:53
+Case 1: 060505002305
+
+05/06/2023 14:47:26
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:47:26
+TipoCampo 2022:2907
+
+05/06/2023 14:47:26
+2090 - 6
+05/06/2023 14:47:27
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:47:27
+132 Tipo Cartao:20001
+
+05/06/2023 14:47:32
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50024
+MU                      05/06/23 14:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050024
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 14:47:32
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50024
+MU                      05/06/23 14:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050024
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 14:47:32
+00
+05/06/2023 14:47:33
+Rede Destino:Case 131: 00005
+
+05/06/2023 14:47:33
+132 Tipo Cartao:20001
+
+05/06/2023 14:47:33
+133 NSU do SiTef:050024
+
+05/06/2023 14:47:33
+134 NSU do Host:999050024
+
+05/06/2023 14:47:33
+135 Código de Autorização:050024
+
+05/06/2023 14:47:33
+TipoCampo 2021:523284******9840
+
+05/06/2023 14:47:33
+TipoCampo 2022:2907
+
+05/06/2023 14:47:33
+Case 1: 060505002405
+
+05/06/2023 14:47:33
+Case 1: 060505002405
+
+05/06/2023 15:08:34
+TipoCampo 2021:523284******9840
+
+05/06/2023 15:08:34
+TipoCampo 2022:2907
+
+05/06/2023 15:08:34
+2090 - 6
+05/06/2023 15:08:35
+Rede Destino:Case 131: 00005
+
+05/06/2023 15:08:35
+132 Tipo Cartao:20001
+
+05/06/2023 15:08:41
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50025
+MU                      05/06/23 15:08
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050025
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+05/06/2023 15:08:41
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 50025
+MU                      05/06/23 15:08
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999050025
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+05/06/2023 15:08:41
+00
+05/06/2023 15:08:42
+Rede Destino:Case 131: 00005
+
+05/06/2023 15:08:42
+132 Tipo Cartao:20001
+
+05/06/2023 15:08:42
+133 NSU do SiTef:050025
+
+05/06/2023 15:08:42
+134 NSU do Host:999050025
+
+05/06/2023 15:08:42
+135 Código de Autorização:050025
+
+05/06/2023 15:08:42
+TipoCampo 2021:523284******9840
+
+05/06/2023 15:08:42
+TipoCampo 2022:2907
+
+05/06/2023 15:08:42
+Case 1: 060505002505
+
+05/06/2023 15:08:42
+Case 1: 060505002505
+
+06/06/2023 08:47:34
+TipoCampo 2021:523284******9840
+
+06/06/2023 08:47:34
+TipoCampo 2022:2907
+
+06/06/2023 08:47:34
+2090 - 6
+06/06/2023 08:47:35
+Rede Destino:Case 131: 00005
+
+06/06/2023 08:47:35
+132 Tipo Cartao:20001
+
+06/06/2023 08:47:41
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60008
+MU                      06/06/23 08:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060008
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 08:47:41
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60008
+MU                      06/06/23 08:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060008
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 08:47:41
+00
+06/06/2023 08:47:42
+Rede Destino:Case 131: 00005
+
+06/06/2023 08:47:42
+132 Tipo Cartao:20001
+
+06/06/2023 08:47:42
+133 NSU do SiTef:060008
+
+06/06/2023 08:47:42
+134 NSU do Host:999060008
+
+06/06/2023 08:47:42
+135 Código de Autorização:060008
+
+06/06/2023 08:47:42
+TipoCampo 2021:523284******9840
+
+06/06/2023 08:47:42
+TipoCampo 2022:2907
+
+06/06/2023 08:47:42
+Case 1: 060606000805
+
+06/06/2023 08:47:42
+Case 1: 060606000805
+
+06/06/2023 08:57:14
+TipoCampo 2021:523284******9840
+
+06/06/2023 08:57:14
+TipoCampo 2022:2907
+
+06/06/2023 08:57:14
+2090 - 6
+06/06/2023 08:57:15
+Rede Destino:Case 131: 00005
+
+06/06/2023 08:57:15
+132 Tipo Cartao:20001
+
+06/06/2023 08:57:22
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60009
+MU                      06/06/23 08:57
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060009
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 08:57:22
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60009
+MU                      06/06/23 08:57
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060009
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 08:57:22
+00
+06/06/2023 08:57:22
+Rede Destino:Case 131: 00005
+
+06/06/2023 08:57:22
+132 Tipo Cartao:20001
+
+06/06/2023 08:57:22
+133 NSU do SiTef:060009
+
+06/06/2023 08:57:22
+134 NSU do Host:999060009
+
+06/06/2023 08:57:22
+135 Código de Autorização:060009
+
+06/06/2023 08:57:22
+TipoCampo 2021:523284******9840
+
+06/06/2023 08:57:22
+TipoCampo 2022:2907
+
+06/06/2023 08:57:22
+Case 1: 060606000905
+
+06/06/2023 08:57:23
+Case 1: 060606000905
+
+06/06/2023 08:59:51
+TipoCampo 2021:523284******9840
+
+06/06/2023 08:59:51
+TipoCampo 2022:2907
+
+06/06/2023 08:59:52
+Rede Destino:Case 131: 00005
+
+06/06/2023 08:59:52
+132 Tipo Cartao:20001
+
+06/06/2023 08:59:54
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200020
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60010
+MU                      06/06/23 08:59
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060010
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+06/06/2023 08:59:54
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200020
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60010
+MU                      06/06/23 08:59
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060010
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 08:59:54
+00
+06/06/2023 08:59:55
+Rede Destino:Case 131: 00005
+
+06/06/2023 08:59:55
+132 Tipo Cartao:20001
+
+06/06/2023 08:59:55
+133 NSU do SiTef:060010
+
+06/06/2023 08:59:55
+134 NSU do Host:999060010
+
+06/06/2023 08:59:55
+135 Código de Autorização:060009
+
+06/06/2023 08:59:55
+TipoCampo 2021:523284******9840
+
+06/06/2023 08:59:55
+TipoCampo 2022:2907
+
+06/06/2023 08:59:55
+Case 1: 060606001005
+
+06/06/2023 08:59:55
+Case 1: 060606001005
+
+06/06/2023 09:12:54
+TipoCampo 2021:523284******9840
+
+06/06/2023 09:12:54
+TipoCampo 2022:2907
+
+06/06/2023 09:12:54
+2090 - 6
+06/06/2023 09:12:55
+Rede Destino:Case 131: 00005
+
+06/06/2023 09:12:55
+132 Tipo Cartao:20001
+
+06/06/2023 09:13:01
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 14,21
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60012
+MU                      06/06/23 09:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060012
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 09:13:02
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 14,21
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60012
+MU                      06/06/23 09:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060012
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 09:13:02
+00
+06/06/2023 09:13:02
+Rede Destino:Case 131: 00005
+
+06/06/2023 09:13:02
+132 Tipo Cartao:20001
+
+06/06/2023 09:13:02
+133 NSU do SiTef:060012
+
+06/06/2023 09:13:02
+134 NSU do Host:999060012
+
+06/06/2023 09:13:02
+135 Código de Autorização:060012
+
+06/06/2023 09:13:02
+TipoCampo 2021:523284******9840
+
+06/06/2023 09:13:02
+TipoCampo 2022:2907
+
+06/06/2023 09:13:02
+Case 1: 060606001205
+
+06/06/2023 09:13:03
+Case 1: 060606001205
+
+06/06/2023 09:13:44
+TipoCampo 2021:523284******9840
+
+06/06/2023 09:13:44
+TipoCampo 2022:2907
+
+06/06/2023 09:13:44
+2090 - 6
+06/06/2023 09:13:45
+Rede Destino:Case 131: 00005
+
+06/06/2023 09:13:45
+132 Tipo Cartao:20001
+
+06/06/2023 09:13:55
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60013
+MU                      06/06/23 09:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060013
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 09:13:56
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60013
+MU                      06/06/23 09:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060013
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 09:13:56
+00
+06/06/2023 09:13:56
+Rede Destino:Case 131: 00005
+
+06/06/2023 09:13:56
+132 Tipo Cartao:20001
+
+06/06/2023 09:13:56
+133 NSU do SiTef:060013
+
+06/06/2023 09:13:56
+134 NSU do Host:999060013
+
+06/06/2023 09:13:56
+135 Código de Autorização:060013
+
+06/06/2023 09:13:56
+TipoCampo 2021:523284******9840
+
+06/06/2023 09:13:56
+TipoCampo 2022:2907
+
+06/06/2023 09:13:56
+Case 1: 060606001305
+
+06/06/2023 09:13:57
+Case 1: 060606001305
+
+06/06/2023 10:13:08
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:13:08
+TipoCampo 2022:2907
+
+06/06/2023 10:13:08
+2090 - 6
+06/06/2023 10:13:09
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:13:09
+132 Tipo Cartao:20001
+
+06/06/2023 10:13:14
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,89
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60014
+MU                      06/06/23 10:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060014
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 10:13:14
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 15,89
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60014
+MU                      06/06/23 10:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060014
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 10:13:15
+00
+06/06/2023 10:13:15
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:13:15
+132 Tipo Cartao:20001
+
+06/06/2023 10:13:15
+133 NSU do SiTef:060014
+
+06/06/2023 10:13:15
+134 NSU do Host:999060014
+
+06/06/2023 10:13:15
+135 Código de Autorização:060014
+
+06/06/2023 10:13:15
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:13:15
+TipoCampo 2022:2907
+
+06/06/2023 10:13:15
+Case 1: 060606001405
+
+06/06/2023 10:13:15
+Case 1: 060606001405
+
+06/06/2023 10:26:00
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:26:00
+TipoCampo 2022:2907
+
+06/06/2023 10:26:00
+2090 - 6
+06/06/2023 10:26:01
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:26:01
+132 Tipo Cartao:20001
+
+06/06/2023 10:27:17
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60016
+MU                      06/06/23 10:27
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060016
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 10:27:17
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60016
+MU                      06/06/23 10:27
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060016
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 10:27:17
+00
+06/06/2023 10:27:18
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:27:18
+132 Tipo Cartao:20001
+
+06/06/2023 10:27:18
+133 NSU do SiTef:060016
+
+06/06/2023 10:27:18
+134 NSU do Host:999060016
+
+06/06/2023 10:27:18
+135 Código de Autorização:060016
+
+06/06/2023 10:27:18
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:27:18
+TipoCampo 2022:2907
+
+06/06/2023 10:27:18
+Case 1: 060606001605
+
+06/06/2023 10:27:18
+Case 1: 060606001605
+
+06/06/2023 10:29:51
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:29:51
+TipoCampo 2022:2907
+
+06/06/2023 10:30:26
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:30:26
+TipoCampo 2022:2907
+
+06/06/2023 10:30:27
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:30:27
+132 Tipo Cartao:20001
+
+06/06/2023 10:30:29
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200020
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60017
+MU                      06/06/23 10:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060017
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+06/06/2023 10:30:30
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200020
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60017
+MU                      06/06/23 10:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060017
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 10:30:30
+00
+06/06/2023 10:30:30
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:30:30
+132 Tipo Cartao:20001
+
+06/06/2023 10:30:30
+133 NSU do SiTef:060017
+
+06/06/2023 10:30:30
+134 NSU do Host:999060017
+
+06/06/2023 10:30:30
+135 Código de Autorização:060016
+
+06/06/2023 10:30:30
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:30:30
+TipoCampo 2022:2907
+
+06/06/2023 10:30:30
+Case 1: 060606001705
+
+06/06/2023 10:30:30
+Case 1: 060606001705
+
+06/06/2023 10:43:42
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:43:42
+TipoCampo 2022:2907
+
+06/06/2023 10:43:42
+2090 - 6
+06/06/2023 10:43:43
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:43:43
+132 Tipo Cartao:00002
+
+06/06/2023 10:44:10
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 78,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60019
+MU                      06/06/23 10:44
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060019
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 10:44:10
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 78,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60019
+MU                      06/06/23 10:44
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060019
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 10:44:10
+00
+06/06/2023 10:44:10
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:44:10
+132 Tipo Cartao:00002
+
+06/06/2023 10:44:10
+133 NSU do SiTef:060019
+
+06/06/2023 10:44:10
+134 NSU do Host:999060019
+
+06/06/2023 10:44:10
+135 Código de Autorização:060019
+
+06/06/2023 10:44:10
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:44:10
+TipoCampo 2022:2907
+
+06/06/2023 10:44:10
+Case 1: 060606001905
+
+06/06/2023 10:44:11
+Case 1: 060606001905
+
+06/06/2023 10:49:33
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:49:33
+TipoCampo 2022:2907
+
+06/06/2023 10:49:33
+2090 - 6
+06/06/2023 10:49:34
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:49:34
+132 Tipo Cartao:00002
+
+06/06/2023 10:49:44
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3800
+DO                        Valor: 20,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60020
+MU                      06/06/23 10:49
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060020
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 10:49:44
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3800
+DO                        Valor: 20,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60020
+MU                      06/06/23 10:49
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060020
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 10:49:45
+00
+06/06/2023 10:49:45
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:49:45
+132 Tipo Cartao:00002
+
+06/06/2023 10:49:45
+133 NSU do SiTef:060020
+
+06/06/2023 10:49:45
+134 NSU do Host:999060020
+
+06/06/2023 10:49:45
+135 Código de Autorização:060020
+
+06/06/2023 10:49:45
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:49:45
+TipoCampo 2022:2907
+
+06/06/2023 10:49:45
+Case 1: 060606002005
+
+06/06/2023 10:49:45
+Case 1: 060606002005
+
+06/06/2023 10:55:23
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:55:23
+TipoCampo 2022:2907
+
+06/06/2023 10:55:23
+2090 - 6
+06/06/2023 10:55:24
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:55:24
+132 Tipo Cartao:00002
+
+06/06/2023 10:55:34
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 34,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60021
+MU                      06/06/23 10:55
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060021
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 10:55:35
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 34,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60021
+MU                      06/06/23 10:55
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060021
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 10:55:35
+00
+06/06/2023 10:55:35
+Rede Destino:Case 131: 00005
+
+06/06/2023 10:55:35
+132 Tipo Cartao:00002
+
+06/06/2023 10:55:35
+133 NSU do SiTef:060021
+
+06/06/2023 10:55:35
+134 NSU do Host:999060021
+
+06/06/2023 10:55:35
+135 Código de Autorização:060021
+
+06/06/2023 10:55:35
+TipoCampo 2021:523284******9840
+
+06/06/2023 10:55:35
+TipoCampo 2022:2907
+
+06/06/2023 10:55:35
+Case 1: 060606002105
+
+06/06/2023 10:55:36
+Case 1: 060606002105
+
+06/06/2023 10:59:05
+TipoCampo 2021:400000******0044
+
+06/06/2023 10:59:08
+Rede Destino:Case 131: 00125
+
+06/06/2023 10:59:15
+TipoCampo 2021:400000******0044
+
+06/06/2023 10:59:15
+TipoCampo 2022:0300
+
+06/06/2023 10:59:26
+TipoCampo 2021:400000******0044
+
+06/06/2023 10:59:26
+TipoCampo 2022:2013
+
+06/06/2023 10:59:44
+TipoCampo 2021:400000******0044
+
+06/06/2023 10:59:44
+TipoCampo 2022:2512
+
+06/06/2023 10:59:44
+2090 - 99
+06/06/2023 10:59:48
+132 Tipo Cartao:00001
+
+06/06/2023 11:00:10
+Case 121:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+               SIMULADO
+                CIELO
+             VISA CREDITO
+           400000******0044
+1a VIA-CLIENTE           AUT=060023
+DOC=060023  06/06/23     11:00 ONL-X
+.....S...I...M...U...L...A...D...O....
+VALOR:                           15,00
+EMBARQ.:                          0,01
+SERVICO:                          0,10
+FINAL:                           15,11
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 11:00:10
+Case 122:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+               SIMULADO
+                CIELO
+             VISA CREDITO
+           400000******0044
+2a VIA-ESTABELECIMENTO   AUT=060023
+0020000080750001/PDV=24000002
+CODIGO DA VENDA:     1234567890123456
+DOC=060023  06/06/23     11:00 ONL-X
+.....S...I...M...U...L...A...D...O....
+VALOR:                           15,00
+EMBARQ.:                          0,01
+SERVICO:                          0,10
+FINAL:                           15,11
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+______________________________________
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 11:00:10
+00
+06/06/2023 11:00:11
+Rede Destino:Case 131: 00125
+
+06/06/2023 11:00:11
+133 NSU do SiTef:060023
+
+06/06/2023 11:00:11
+134 NSU do Host:000060023
+
+06/06/2023 11:00:11
+135 Código de Autorização:060023
+
+06/06/2023 11:00:11
+TipoCampo 2021:400000******0044
+
+06/06/2023 11:00:11
+TipoCampo 2022:2512
+
+06/06/2023 11:00:11
+Case 1: 0606060023AP
+
+06/06/2023 11:00:11
+Case 1: 0606060023AP
+
+06/06/2023 11:04:14
+TipoCampo 2021:400000*********0004
+
+06/06/2023 11:04:16
+FF
+06/06/2023 11:07:42
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:07:42
+TipoCampo 2022:2907
+
+06/06/2023 11:07:42
+2090 - 6
+06/06/2023 11:07:43
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:07:43
+132 Tipo Cartao:20001
+
+06/06/2023 11:07:53
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 40,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60024
+MU                      06/06/23 11:07
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060024
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 11:07:53
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 40,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60024
+MU                      06/06/23 11:07
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060024
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 11:07:53
+00
+06/06/2023 11:07:54
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:07:54
+132 Tipo Cartao:20001
+
+06/06/2023 11:07:54
+133 NSU do SiTef:060024
+
+06/06/2023 11:07:54
+134 NSU do Host:999060024
+
+06/06/2023 11:07:54
+135 Código de Autorização:060024
+
+06/06/2023 11:07:54
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:07:54
+TipoCampo 2022:2907
+
+06/06/2023 11:07:54
+Case 1: 060606002405
+
+06/06/2023 11:07:54
+Case 1: 060606002405
+
+06/06/2023 11:18:11
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:18:11
+TipoCampo 2022:2907
+
+06/06/2023 11:18:11
+2090 - 6
+06/06/2023 11:18:12
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:18:12
+132 Tipo Cartao:00002
+
+06/06/2023 11:18:28
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 53,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60025
+MU                      06/06/23 11:18
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060025
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 11:18:28
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 53,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60025
+MU                      06/06/23 11:18
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060025
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 11:18:29
+00
+06/06/2023 11:18:29
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:18:29
+132 Tipo Cartao:00002
+
+06/06/2023 11:18:29
+133 NSU do SiTef:060025
+
+06/06/2023 11:18:29
+134 NSU do Host:999060025
+
+06/06/2023 11:18:29
+135 Código de Autorização:060025
+
+06/06/2023 11:18:29
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:18:29
+TipoCampo 2022:2907
+
+06/06/2023 11:18:29
+Case 1: 060606002505
+
+06/06/2023 11:18:29
+Case 1: 060606002505
+
+06/06/2023 11:29:29
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:29:29
+TipoCampo 2022:2907
+
+06/06/2023 11:29:30
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:29:30
+132 Tipo Cartao:20001
+
+06/06/2023 11:29:31
+S2
+06/06/2023 11:33:38
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:33:38
+TipoCampo 2022:2907
+
+06/06/2023 11:33:38
+2090 - 6
+06/06/2023 11:33:39
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:33:39
+132 Tipo Cartao:00002
+
+06/06/2023 11:33:51
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 83,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60026
+MU                      06/06/23 11:33
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060026
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 11:33:52
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 83,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60026
+MU                      06/06/23 11:33
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060026
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 11:33:52
+00
+06/06/2023 11:33:52
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:33:52
+132 Tipo Cartao:00002
+
+06/06/2023 11:33:52
+133 NSU do SiTef:060026
+
+06/06/2023 11:33:52
+134 NSU do Host:999060026
+
+06/06/2023 11:33:52
+135 Código de Autorização:060026
+
+06/06/2023 11:33:52
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:33:52
+TipoCampo 2022:2907
+
+06/06/2023 11:33:52
+Case 1: 060606002605
+
+06/06/2023 11:33:52
+Case 1: 060606002605
+
+06/06/2023 11:36:14
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:36:14
+TipoCampo 2022:2907
+
+06/06/2023 11:36:15
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:36:15
+132 Tipo Cartao:00002
+
+06/06/2023 11:36:17
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 83,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60027
+MU                      06/06/23 11:36
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060027
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+06/06/2023 11:36:17
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 83,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60027
+MU                      06/06/23 11:36
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060027
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 11:36:17
+00
+06/06/2023 11:36:18
+Rede Destino:Case 131: 00005
+
+06/06/2023 11:36:18
+132 Tipo Cartao:00002
+
+06/06/2023 11:36:18
+133 NSU do SiTef:060027
+
+06/06/2023 11:36:18
+134 NSU do Host:999060027
+
+06/06/2023 11:36:18
+135 Código de Autorização:060026
+
+06/06/2023 11:36:18
+TipoCampo 2021:523284******9840
+
+06/06/2023 11:36:18
+TipoCampo 2022:2907
+
+06/06/2023 11:36:18
+Case 1: 060606002705
+
+06/06/2023 11:36:18
+Case 1: 060606002705
+
+06/06/2023 11:52:38
+Case 121:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+                CIELO
+             VISA CREDITO
+            *REIMPRESSAO*
+           400000******0044
+1a VIA-CLIENTE           AUT=060023
+DOC=060023  06/06/23     11:00 ONL-X
+VENDA A CREDITO
+            *REIMPRESSAO*
+VALOR:                           15,00
+EMBARQ.:                          0,01
+SERVICO:                          0,10
+FINAL:                           15,11
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 11:52:38
+Case 121:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+                CIELO
+             VISA CREDITO
+            *REIMPRESSAO*
+           400000******0044
+1a VIA-CLIENTE           AUT=060023
+DOC=060023  06/06/23     11:00 ONL-X
+VENDA A CREDITO
+            *REIMPRESSAO*
+VALOR:                           15,00
+EMBARQ.:                          0,01
+SERVICO:                          0,10
+FINAL:                           15,11
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 11:54:19
+Case 122:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+                CIELO
+             VISA CREDITO
+            *REIMPRESSAO*
+           400000******0044
+2a VIA-ESTABELECIMENTO   AUT=060023
+0020000080750001/PDV=24000002
+CODIGO DA VENDA:     1234567890123456
+DOC=060023  06/06/23     11:00 ONL-X
+VENDA A CREDITO
+            *REIMPRESSAO*
+VALOR:                           15,00
+EMBARQ.:                          0,01
+SERVICO:                          0,10
+FINAL:                           15,11
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+______________________________________
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 11:54:20
+Case 122:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+                CIELO
+             VISA CREDITO
+            *REIMPRESSAO*
+           400000******0044
+2a VIA-ESTABELECIMENTO   AUT=060023
+0020000080750001/PDV=24000002
+CODIGO DA VENDA:     1234567890123456
+DOC=060023  06/06/23     11:00 ONL-X
+VENDA A CREDITO
+            *REIMPRESSAO*
+VALOR:                           15,00
+EMBARQ.:                          0,01
+SERVICO:                          0,10
+FINAL:                           15,11
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+______________________________________
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 13:39:12
+TipoCampo 2021:523284******9840
+
+06/06/2023 13:39:12
+TipoCampo 2022:2907
+
+06/06/2023 13:39:12
+2090 - 6
+06/06/2023 13:39:14
+Rede Destino:Case 131: 00005
+
+06/06/2023 13:39:14
+132 Tipo Cartao:00002
+
+06/06/2023 13:39:27
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 67,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60028
+MU                      06/06/23 13:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060028
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 13:39:27
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 67,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60028
+MU                      06/06/23 13:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060028
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 13:39:28
+00
+06/06/2023 13:39:28
+Rede Destino:Case 131: 00005
+
+06/06/2023 13:39:28
+132 Tipo Cartao:00002
+
+06/06/2023 13:39:28
+133 NSU do SiTef:060028
+
+06/06/2023 13:39:28
+134 NSU do Host:999060028
+
+06/06/2023 13:39:28
+135 Código de Autorização:060028
+
+06/06/2023 13:39:28
+TipoCampo 2021:523284******9840
+
+06/06/2023 13:39:28
+TipoCampo 2022:2907
+
+06/06/2023 13:39:28
+Case 1: 060606002805
+
+06/06/2023 13:39:28
+Case 1: 060606002805
+
+06/06/2023 13:49:04
+TipoCampo 2021:400000******0044
+
+06/06/2023 13:49:07
+Rede Destino:Case 131: 00125
+
+06/06/2023 13:49:17
+TipoCampo 2021:400000******0044
+
+06/06/2023 13:49:17
+TipoCampo 2022:2512
+
+06/06/2023 13:49:17
+2090 - 99
+06/06/2023 13:49:19
+132 Tipo Cartao:00001
+
+06/06/2023 13:50:11
+Case 121:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+               SIMULADO
+                CIELO
+             VISA CREDITO
+           400000******0044
+1a VIA-CLIENTE           AUT=060030
+DOC=060030  06/06/23     13:50 ONL-X
+.....S...I...M...U...L...A...D...O....
+VALOR:                        3.912,00
+EMBARQ.:                          0,54
+SERVICO:                          0,05
+FINAL:                        3.912,59
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 13:50:11
+Case 122:  
+.....S...I...M...U...L...A...D...O....
+             TESTE CIELO
+ 
+               SIMULADO
+                CIELO
+             VISA CREDITO
+           400000******0044
+2a VIA-ESTABELECIMENTO   AUT=060030
+0020000080750001/PDV=24000002
+CODIGO DA VENDA:     1234567890123456
+DOC=060030  06/06/23     13:50 ONL-X
+.....S...I...M...U...L...A...D...O....
+VALOR:                        3.912,00
+EMBARQ.:                          0,54
+SERVICO:                          0,05
+FINAL:                        3.912,59
+ 
+.....S...I...M...U...L...A...D...O....
+ 
+______________________________________
+ 
+.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+ 
+                               (SiTef)
+
+
+06/06/2023 13:50:11
+00
+06/06/2023 13:50:11
+Rede Destino:Case 131: 00125
+
+06/06/2023 13:50:11
+133 NSU do SiTef:060030
+
+06/06/2023 13:50:11
+134 NSU do Host:000060030
+
+06/06/2023 13:50:11
+135 Código de Autorização:060030
+
+06/06/2023 13:50:11
+TipoCampo 2021:400000******0044
+
+06/06/2023 13:50:11
+TipoCampo 2022:2512
+
+06/06/2023 13:50:12
+Case 1: 0606060030AP
+
+06/06/2023 13:50:12
+Case 1: 0606060030AP
+
+06/06/2023 14:54:23
+TipoCampo 2021:523284******9840
+
+06/06/2023 14:54:23
+TipoCampo 2022:2907
+
+06/06/2023 14:54:23
+2090 - 6
+06/06/2023 14:54:24
+Rede Destino:Case 131: 00005
+
+06/06/2023 14:54:24
+132 Tipo Cartao:20001
+
+06/06/2023 14:54:54
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60031
+MU                      06/06/23 14:54
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060031
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 14:54:55
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60031
+MU                      06/06/23 14:54
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060031
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 14:54:55
+00
+06/06/2023 14:54:55
+Rede Destino:Case 131: 00005
+
+06/06/2023 14:54:55
+132 Tipo Cartao:20001
+
+06/06/2023 14:54:55
+133 NSU do SiTef:060031
+
+06/06/2023 14:54:55
+134 NSU do Host:999060031
+
+06/06/2023 14:54:55
+135 Código de Autorização:060031
+
+06/06/2023 14:54:55
+TipoCampo 2021:523284******9840
+
+06/06/2023 14:54:55
+TipoCampo 2022:2907
+
+06/06/2023 14:54:55
+Case 1: 060606003105
+
+06/06/2023 14:54:56
+Case 1: 060606003105
+
+06/06/2023 17:26:41
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:26:41
+TipoCampo 2022:2907
+
+06/06/2023 17:26:41
+2090 - 6
+06/06/2023 17:26:42
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:26:42
+132 Tipo Cartao:20001
+
+06/06/2023 17:26:46
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60033
+MU                      06/06/23 17:26
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060033
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 17:26:47
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60033
+MU                      06/06/23 17:26
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060033
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 17:26:47
+00
+06/06/2023 17:26:47
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:26:47
+132 Tipo Cartao:20001
+
+06/06/2023 17:26:47
+133 NSU do SiTef:060033
+
+06/06/2023 17:26:47
+134 NSU do Host:999060033
+
+06/06/2023 17:26:47
+135 Código de Autorização:060033
+
+06/06/2023 17:26:47
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:26:47
+TipoCampo 2022:2907
+
+06/06/2023 17:26:47
+Case 1: 060606003305
+
+06/06/2023 17:26:48
+Case 1: 060606003305
+
+06/06/2023 17:28:00
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:28:00
+TipoCampo 2022:2907
+
+06/06/2023 17:28:00
+2090 - 6
+06/06/2023 17:28:01
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:28:01
+132 Tipo Cartao:00002
+
+06/06/2023 17:28:05
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 25,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60034
+MU                      06/06/23 17:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060034
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 17:28:06
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 25,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60034
+MU                      06/06/23 17:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060034
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 17:28:06
+00
+06/06/2023 17:28:06
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:28:06
+132 Tipo Cartao:00002
+
+06/06/2023 17:28:06
+133 NSU do SiTef:060034
+
+06/06/2023 17:28:06
+134 NSU do Host:999060034
+
+06/06/2023 17:28:06
+135 Código de Autorização:060034
+
+06/06/2023 17:28:06
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:28:06
+TipoCampo 2022:2907
+
+06/06/2023 17:28:06
+Case 1: 060606003405
+
+06/06/2023 17:28:07
+Case 1: 060606003405
+
+06/06/2023 17:29:32
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:29:32
+TipoCampo 2022:2907
+
+06/06/2023 17:29:33
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:29:33
+132 Tipo Cartao:00002
+
+06/06/2023 17:29:34
+S4
+06/06/2023 17:30:57
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:30:57
+TipoCampo 2022:2907
+
+06/06/2023 17:30:58
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:30:58
+132 Tipo Cartao:00002
+
+06/06/2023 17:31:00
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 25,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60035
+MU                      06/06/23 17:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060035
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+06/06/2023 17:31:01
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 25,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60035
+MU                      06/06/23 17:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060035
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 17:31:01
+00
+06/06/2023 17:31:01
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:31:01
+132 Tipo Cartao:00002
+
+06/06/2023 17:31:01
+133 NSU do SiTef:060035
+
+06/06/2023 17:31:01
+134 NSU do Host:999060035
+
+06/06/2023 17:31:01
+135 Código de Autorização:060034
+
+06/06/2023 17:31:01
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:31:01
+TipoCampo 2022:2907
+
+06/06/2023 17:31:01
+Case 1: 060606003505
+
+06/06/2023 17:31:02
+Case 1: 060606003505
+
+06/06/2023 17:36:34
+S1
+06/06/2023 17:37:57
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:37:57
+TipoCampo 2022:2907
+
+06/06/2023 17:37:57
+2090 - 6
+06/06/2023 17:37:58
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:37:58
+132 Tipo Cartao:20001
+
+06/06/2023 17:38:05
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 31,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60036
+MU                      06/06/23 17:38
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060036
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+06/06/2023 17:38:05
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 31,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 60036
+MU                      06/06/23 17:38
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999060036
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+06/06/2023 17:38:05
+00
+06/06/2023 17:38:06
+Rede Destino:Case 131: 00005
+
+06/06/2023 17:38:06
+132 Tipo Cartao:20001
+
+06/06/2023 17:38:06
+133 NSU do SiTef:060036
+
+06/06/2023 17:38:06
+134 NSU do Host:999060036
+
+06/06/2023 17:38:06
+135 Código de Autorização:060036
+
+06/06/2023 17:38:06
+TipoCampo 2021:523284******9840
+
+06/06/2023 17:38:06
+TipoCampo 2022:2907
+
+06/06/2023 17:38:06
+Case 1: 060606003605
+
+06/06/2023 17:38:06
+Case 1: 060606003605
+
+12/06/2023 17:08:41
+TipoCampo 2021:523284******9840
+
+12/06/2023 17:08:41
+TipoCampo 2022:2907
+
+12/06/2023 17:08:41
+2090 - 6
+12/06/2023 17:08:42
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:08:42
+132 Tipo Cartao:20001
+
+12/06/2023 17:08:49
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120002
+MU                      12/06/23 17:08
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120002
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+12/06/2023 17:08:49
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120002
+MU                      12/06/23 17:08
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120002
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+12/06/2023 17:08:50
+00
+12/06/2023 17:08:50
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:08:50
+132 Tipo Cartao:20001
+
+12/06/2023 17:08:50
+133 NSU do SiTef:120002
+
+12/06/2023 17:08:50
+134 NSU do Host:999120002
+
+12/06/2023 17:08:50
+135 Código de Autorização:120002
+
+12/06/2023 17:08:50
+TipoCampo 2021:523284******9840
+
+12/06/2023 17:08:50
+TipoCampo 2022:2907
+
+12/06/2023 17:08:50
+Case 1: 061212000205
+
+12/06/2023 17:08:50
+Case 1: 061212000205
+
+12/06/2023 17:11:32
+TipoCampo 2021:535081******5866
+
+12/06/2023 17:11:32
+TipoCampo 2022:3105
+
+12/06/2023 17:11:32
+2090 - 6
+12/06/2023 17:11:33
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:11:33
+132 Tipo Cartao:00002
+
+12/06/2023 17:11:38
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120003
+MU                      12/06/23 17:11
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120003
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+12/06/2023 17:11:39
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120003
+MU                      12/06/23 17:11
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120003
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+12/06/2023 17:11:39
+00
+12/06/2023 17:11:39
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:11:39
+132 Tipo Cartao:00002
+
+12/06/2023 17:11:39
+133 NSU do SiTef:120003
+
+12/06/2023 17:11:39
+134 NSU do Host:999120003
+
+12/06/2023 17:11:39
+135 Código de Autorização:120003
+
+12/06/2023 17:11:39
+TipoCampo 2021:535081******5866
+
+12/06/2023 17:11:39
+TipoCampo 2022:3105
+
+12/06/2023 17:11:39
+Case 1: 061212000305
+
+12/06/2023 17:11:40
+Case 1: 061212000305
+
+12/06/2023 17:29:30
+TipoCampo 2021:523284******9840
+
+12/06/2023 17:29:30
+TipoCampo 2022:2907
+
+12/06/2023 17:29:30
+2090 - 6
+12/06/2023 17:29:31
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:29:31
+132 Tipo Cartao:20001
+
+12/06/2023 17:29:47
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 78,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120004
+MU                      12/06/23 17:29
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120004
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+12/06/2023 17:29:48
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 78,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120004
+MU                      12/06/23 17:29
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120004
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+12/06/2023 17:29:48
+00
+12/06/2023 17:29:48
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:29:48
+132 Tipo Cartao:20001
+
+12/06/2023 17:29:48
+133 NSU do SiTef:120004
+
+12/06/2023 17:29:48
+134 NSU do Host:999120004
+
+12/06/2023 17:29:48
+135 Código de Autorização:120004
+
+12/06/2023 17:29:48
+TipoCampo 2021:523284******9840
+
+12/06/2023 17:29:48
+TipoCampo 2022:2907
+
+12/06/2023 17:29:48
+Case 1: 061212000405
+
+12/06/2023 17:29:48
+Case 1: 061212000405
+
+12/06/2023 17:30:26
+TipoCampo 2021:523284******9840
+
+12/06/2023 17:30:26
+TipoCampo 2022:2907
+
+12/06/2023 17:30:26
+2090 - 6
+12/06/2023 17:30:27
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:30:27
+132 Tipo Cartao:00002
+
+12/06/2023 17:30:36
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 21,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120005
+MU                      12/06/23 17:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120005
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+12/06/2023 17:30:36
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 21,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 120005
+MU                      12/06/23 17:30
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999120005
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+12/06/2023 17:30:37
+00
+12/06/2023 17:30:37
+Rede Destino:Case 131: 00005
+
+12/06/2023 17:30:37
+132 Tipo Cartao:00002
+
+12/06/2023 17:30:37
+133 NSU do SiTef:120005
+
+12/06/2023 17:30:37
+134 NSU do Host:999120005
+
+12/06/2023 17:30:37
+135 Código de Autorização:120005
+
+12/06/2023 17:30:37
+TipoCampo 2021:523284******9840
+
+12/06/2023 17:30:37
+TipoCampo 2022:2907
+
+12/06/2023 17:30:37
+Case 1: 061212000505
+
+12/06/2023 17:30:37
+Case 1: 061212000505
+
+13/06/2023 10:17:12
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:17:12
+TipoCampo 2022:2907
+
+13/06/2023 10:17:12
+2090 - 6
+13/06/2023 10:17:13
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:17:13
+132 Tipo Cartao:20001
+
+13/06/2023 10:17:19
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 32,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130002
+MU                      13/06/23 10:17
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130002
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+13/06/2023 10:17:19
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 32,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130002
+MU                      13/06/23 10:17
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130002
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+13/06/2023 10:17:19
+00
+13/06/2023 10:17:19
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:17:19
+132 Tipo Cartao:20001
+
+13/06/2023 10:17:19
+133 NSU do SiTef:130002
+
+13/06/2023 10:17:19
+134 NSU do Host:999130002
+
+13/06/2023 10:17:19
+135 Código de Autorização:130002
+
+13/06/2023 10:17:20
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:17:20
+TipoCampo 2022:2907
+
+13/06/2023 10:17:20
+Case 1: 061313000205
+
+13/06/2023 10:17:20
+Case 1: 061313000205
+
+13/06/2023 10:18:27
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:18:27
+TipoCampo 2022:2907
+
+13/06/2023 10:18:27
+2090 - 6
+13/06/2023 10:18:28
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:18:28
+132 Tipo Cartao:00002
+
+13/06/2023 10:18:33
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130003
+MU                      13/06/23 10:18
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130003
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+13/06/2023 10:18:33
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130003
+MU                      13/06/23 10:18
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130003
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+13/06/2023 10:18:34
+00
+13/06/2023 10:18:34
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:18:34
+132 Tipo Cartao:00002
+
+13/06/2023 10:18:34
+133 NSU do SiTef:130003
+
+13/06/2023 10:18:34
+134 NSU do Host:999130003
+
+13/06/2023 10:18:34
+135 Código de Autorização:130003
+
+13/06/2023 10:18:34
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:18:34
+TipoCampo 2022:2907
+
+13/06/2023 10:18:34
+Case 1: 061313000305
+
+13/06/2023 10:18:34
+Case 1: 061313000305
+
+13/06/2023 10:19:45
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:19:45
+TipoCampo 2022:2907
+
+13/06/2023 10:19:45
+2090 - 6
+13/06/2023 10:19:46
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:19:46
+132 Tipo Cartao:00002
+
+13/06/2023 10:20:01
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 65,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130004
+MU                      13/06/23 10:20
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130004
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+13/06/2023 10:20:01
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 65,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130004
+MU                      13/06/23 10:20
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130004
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+13/06/2023 10:20:02
+00
+13/06/2023 10:20:02
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:20:02
+132 Tipo Cartao:00002
+
+13/06/2023 10:20:02
+133 NSU do SiTef:130004
+
+13/06/2023 10:20:02
+134 NSU do Host:999130004
+
+13/06/2023 10:20:02
+135 Código de Autorização:130004
+
+13/06/2023 10:20:02
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:20:02
+TipoCampo 2022:2907
+
+13/06/2023 10:20:02
+Case 1: 061313000405
+
+13/06/2023 10:20:02
+Case 1: 061313000405
+
+13/06/2023 10:24:28
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:24:28
+TipoCampo 2022:2907
+
+13/06/2023 10:24:29
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:24:29
+132 Tipo Cartao:00002
+
+13/06/2023 10:24:31
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 65,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130005
+MU                      13/06/23 10:24
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130005
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+13/06/2023 10:24:31
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 65,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130005
+MU                      13/06/23 10:24
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130005
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+13/06/2023 10:24:31
+00
+13/06/2023 10:24:32
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:24:32
+132 Tipo Cartao:00002
+
+13/06/2023 10:24:32
+133 NSU do SiTef:130005
+
+13/06/2023 10:24:32
+134 NSU do Host:999130005
+
+13/06/2023 10:24:32
+135 Código de Autorização:130004
+
+13/06/2023 10:24:32
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:24:32
+TipoCampo 2022:2907
+
+13/06/2023 10:24:32
+Case 1: 061313000505
+
+13/06/2023 10:24:32
+Case 1: 061313000505
+
+13/06/2023 10:38:51
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:38:51
+TipoCampo 2022:2907
+
+13/06/2023 10:38:51
+2090 - 6
+13/06/2023 10:38:52
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:38:52
+132 Tipo Cartao:00002
+
+13/06/2023 10:38:57
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130008
+MU                      13/06/23 10:38
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130008
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+13/06/2023 10:38:58
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130008
+MU                      13/06/23 10:38
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130008
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+13/06/2023 10:38:58
+00
+13/06/2023 10:38:58
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:38:58
+132 Tipo Cartao:00002
+
+13/06/2023 10:38:58
+133 NSU do SiTef:130008
+
+13/06/2023 10:38:58
+134 NSU do Host:999130008
+
+13/06/2023 10:38:58
+135 Código de Autorização:130008
+
+13/06/2023 10:38:58
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:38:58
+TipoCampo 2022:2907
+
+13/06/2023 10:38:58
+Case 1: 061313000805
+
+13/06/2023 10:38:58
+Case 1: 061313000805
+
+13/06/2023 10:42:07
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:42:07
+TipoCampo 2022:2907
+
+13/06/2023 10:42:08
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:42:08
+132 Tipo Cartao:00002
+
+13/06/2023 10:42:10
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130009
+MU                      13/06/23 10:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130009
+MU         Transacao Simulada Aprovada
+LA
+                               (SiTef)
+
+
+13/06/2023 10:42:11
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 400
+LA             Codigo operacao: 200030
+DO                        Valor: 15,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 130009
+MU                      13/06/23 10:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999130009
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+13/06/2023 10:42:11
+00
+13/06/2023 10:42:11
+Rede Destino:Case 131: 00005
+
+13/06/2023 10:42:11
+132 Tipo Cartao:00002
+
+13/06/2023 10:42:11
+133 NSU do SiTef:130009
+
+13/06/2023 10:42:11
+134 NSU do Host:999130009
+
+13/06/2023 10:42:11
+135 Código de Autorização:130008
+
+13/06/2023 10:42:11
+TipoCampo 2021:523284******9840
+
+13/06/2023 10:42:11
+TipoCampo 2022:2907
+
+13/06/2023 10:42:11
+Case 1: 061313000905
+
+13/06/2023 10:42:12
+Case 1: 061313000905
+
+14/06/2023 13:40:16
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:40:16
+TipoCampo 2022:2907
+
+14/06/2023 13:40:16
+2090 - 6
+14/06/2023 13:40:17
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:40:18
+132 Tipo Cartao:20001
+
+14/06/2023 13:40:24
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140002
+MU                      14/06/23 13:40
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140002
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 13:40:24
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140002
+MU                      14/06/23 13:40
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140002
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 13:40:24
+00
+14/06/2023 13:40:24
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:40:24
+132 Tipo Cartao:20001
+
+14/06/2023 13:40:24
+133 NSU do SiTef:140002
+
+14/06/2023 13:40:24
+134 NSU do Host:999140002
+
+14/06/2023 13:40:24
+135 Código de Autorização:140002
+
+14/06/2023 13:40:24
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:40:24
+TipoCampo 2022:2907
+
+14/06/2023 13:40:24
+Case 1: 061414000205
+
+14/06/2023 13:40:25
+Case 1: 061414000205
+
+14/06/2023 13:41:33
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:41:33
+TipoCampo 2022:2907
+
+14/06/2023 13:41:33
+2090 - 6
+14/06/2023 13:41:34
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:41:34
+132 Tipo Cartao:00002
+
+14/06/2023 13:41:40
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140003
+MU                      14/06/23 13:41
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140003
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 13:41:40
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140003
+MU                      14/06/23 13:41
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140003
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 13:41:40
+00
+14/06/2023 13:41:40
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:41:40
+132 Tipo Cartao:00002
+
+14/06/2023 13:41:40
+133 NSU do SiTef:140003
+
+14/06/2023 13:41:40
+134 NSU do Host:999140003
+
+14/06/2023 13:41:40
+135 Código de Autorização:140003
+
+14/06/2023 13:41:40
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:41:40
+TipoCampo 2022:2907
+
+14/06/2023 13:41:40
+Case 1: 061414000305
+
+14/06/2023 13:41:41
+Case 1: 061414000305
+
+14/06/2023 13:45:21
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:45:21
+TipoCampo 2022:2907
+
+14/06/2023 13:45:21
+2090 - 6
+14/06/2023 13:45:22
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:45:22
+132 Tipo Cartao:00002
+
+14/06/2023 13:45:28
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 5,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140004
+MU                      14/06/23 13:45
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140004
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 13:45:28
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 5,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140004
+MU                      14/06/23 13:45
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140004
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 13:45:28
+00
+14/06/2023 13:45:28
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:45:28
+132 Tipo Cartao:00002
+
+14/06/2023 13:45:28
+133 NSU do SiTef:140004
+
+14/06/2023 13:45:28
+134 NSU do Host:999140004
+
+14/06/2023 13:45:28
+135 Código de Autorização:140004
+
+14/06/2023 13:45:28
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:45:28
+TipoCampo 2022:2907
+
+14/06/2023 13:45:28
+Case 1: 061414000405
+
+14/06/2023 13:45:29
+Case 1: 061414000405
+
+14/06/2023 13:46:59
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:46:59
+TipoCampo 2022:2907
+
+14/06/2023 13:47:00
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:47:00
+132 Tipo Cartao:20001
+
+14/06/2023 13:47:01
+S3
+14/06/2023 13:56:03
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:56:03
+TipoCampo 2022:2907
+
+14/06/2023 13:56:03
+2090 - 6
+14/06/2023 13:56:04
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:56:04
+132 Tipo Cartao:20001
+
+14/06/2023 13:56:12
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 7,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140006
+MU                      14/06/23 13:56
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140006
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 13:56:12
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 7,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140006
+MU                      14/06/23 13:56
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140006
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 13:56:12
+00
+14/06/2023 13:56:12
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:56:12
+132 Tipo Cartao:20001
+
+14/06/2023 13:56:12
+133 NSU do SiTef:140006
+
+14/06/2023 13:56:12
+134 NSU do Host:999140006
+
+14/06/2023 13:56:12
+135 Código de Autorização:140006
+
+14/06/2023 13:56:12
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:56:12
+TipoCampo 2022:2907
+
+14/06/2023 13:56:12
+Case 1: 061414000605
+
+14/06/2023 13:56:13
+Case 1: 061414000605
+
+14/06/2023 13:57:39
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:57:39
+TipoCampo 2022:2907
+
+14/06/2023 13:57:39
+2090 - 6
+14/06/2023 13:57:40
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:57:40
+132 Tipo Cartao:20001
+
+14/06/2023 13:58:01
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140007
+MU                      14/06/23 13:58
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140007
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 13:58:02
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140007
+MU                      14/06/23 13:58
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140007
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 13:58:02
+00
+14/06/2023 13:58:02
+Rede Destino:Case 131: 00005
+
+14/06/2023 13:58:02
+132 Tipo Cartao:20001
+
+14/06/2023 13:58:02
+133 NSU do SiTef:140007
+
+14/06/2023 13:58:02
+134 NSU do Host:999140007
+
+14/06/2023 13:58:02
+135 Código de Autorização:140007
+
+14/06/2023 13:58:02
+TipoCampo 2021:523284******9840
+
+14/06/2023 13:58:02
+TipoCampo 2022:2907
+
+14/06/2023 13:58:02
+Case 1: 061414000705
+
+14/06/2023 13:58:03
+Case 1: 061414000705
+
+14/06/2023 14:39:47
+TipoCampo 2021:523284******9840
+
+14/06/2023 14:39:47
+TipoCampo 2022:2907
+
+14/06/2023 14:39:47
+2090 - 6
+14/06/2023 14:39:48
+Rede Destino:Case 131: 00005
+
+14/06/2023 14:39:48
+132 Tipo Cartao:20001
+
+14/06/2023 14:39:54
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140009
+MU                      14/06/23 14:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140009
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 14:39:54
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140009
+MU                      14/06/23 14:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140009
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 14:39:55
+00
+14/06/2023 14:39:55
+Rede Destino:Case 131: 00005
+
+14/06/2023 14:39:55
+132 Tipo Cartao:20001
+
+14/06/2023 14:39:55
+133 NSU do SiTef:140009
+
+14/06/2023 14:39:55
+134 NSU do Host:999140009
+
+14/06/2023 14:39:55
+135 Código de Autorização:140009
+
+14/06/2023 14:39:55
+TipoCampo 2021:523284******9840
+
+14/06/2023 14:39:55
+TipoCampo 2022:2907
+
+14/06/2023 14:39:55
+Case 1: 061414000905
+
+14/06/2023 14:39:55
+Case 1: 061414000905
+
+14/06/2023 14:40:41
+TipoCampo 2021:523284******9840
+
+14/06/2023 14:40:41
+TipoCampo 2022:2907
+
+14/06/2023 14:40:41
+2090 - 6
+14/06/2023 14:40:42
+Rede Destino:Case 131: 00005
+
+14/06/2023 14:40:42
+132 Tipo Cartao:20001
+
+14/06/2023 14:40:49
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140010
+MU                      14/06/23 14:40
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140010
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 14:40:49
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 10,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140010
+MU                      14/06/23 14:40
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140010
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 14:40:49
+00
+14/06/2023 14:40:49
+Rede Destino:Case 131: 00005
+
+14/06/2023 14:40:49
+132 Tipo Cartao:20001
+
+14/06/2023 14:40:49
+133 NSU do SiTef:140010
+
+14/06/2023 14:40:49
+134 NSU do Host:999140010
+
+14/06/2023 14:40:49
+135 Código de Autorização:140010
+
+14/06/2023 14:40:49
+TipoCampo 2021:523284******9840
+
+14/06/2023 14:40:49
+TipoCampo 2022:2907
+
+14/06/2023 14:40:49
+Case 1: 061414001005
+
+14/06/2023 14:40:50
+Case 1: 061414001005
+
+14/06/2023 15:28:14
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:28:14
+TipoCampo 2022:2907
+
+14/06/2023 15:28:14
+2090 - 6
+14/06/2023 15:28:15
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:28:15
+132 Tipo Cartao:20001
+
+14/06/2023 15:28:21
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140012
+MU                      14/06/23 15:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140012
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 15:28:21
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140012
+MU                      14/06/23 15:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140012
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 15:28:21
+00
+14/06/2023 15:28:21
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:28:21
+132 Tipo Cartao:20001
+
+14/06/2023 15:28:21
+133 NSU do SiTef:140012
+
+14/06/2023 15:28:21
+134 NSU do Host:999140012
+
+14/06/2023 15:28:21
+135 Código de Autorização:140012
+
+14/06/2023 15:28:22
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:28:22
+TipoCampo 2022:2907
+
+14/06/2023 15:28:22
+Case 1: 061414001205
+
+14/06/2023 15:28:22
+Case 1: 061414001205
+
+14/06/2023 15:42:50
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:42:50
+TipoCampo 2022:2907
+
+14/06/2023 15:42:50
+2090 - 6
+14/06/2023 15:42:51
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:42:51
+132 Tipo Cartao:20001
+
+14/06/2023 15:42:54
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 2,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140013
+MU                      14/06/23 15:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140013
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 15:42:54
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 2,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140013
+MU                      14/06/23 15:42
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140013
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 15:42:54
+00
+14/06/2023 15:42:54
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:42:54
+132 Tipo Cartao:20001
+
+14/06/2023 15:42:54
+133 NSU do SiTef:140013
+
+14/06/2023 15:42:54
+134 NSU do Host:999140013
+
+14/06/2023 15:42:54
+135 Código de Autorização:140013
+
+14/06/2023 15:42:54
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:42:54
+TipoCampo 2022:2907
+
+14/06/2023 15:42:54
+Case 1: 061414001305
+
+14/06/2023 15:42:55
+Case 1: 061414001305
+
+14/06/2023 15:47:23
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:47:23
+TipoCampo 2022:2907
+
+14/06/2023 15:47:23
+2090 - 6
+14/06/2023 15:47:24
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:47:24
+132 Tipo Cartao:20001
+
+14/06/2023 15:47:27
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140014
+MU                      14/06/23 15:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140014
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 15:47:27
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140014
+MU                      14/06/23 15:47
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140014
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 15:47:27
+00
+14/06/2023 15:47:28
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:47:28
+132 Tipo Cartao:20001
+
+14/06/2023 15:47:28
+133 NSU do SiTef:140014
+
+14/06/2023 15:47:28
+134 NSU do Host:999140014
+
+14/06/2023 15:47:28
+135 Código de Autorização:140014
+
+14/06/2023 15:47:28
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:47:28
+TipoCampo 2022:2907
+
+14/06/2023 15:47:28
+Case 1: 061414001405
+
+14/06/2023 15:47:28
+Case 1: 061414001405
+
+14/06/2023 15:57:37
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:57:37
+TipoCampo 2022:2907
+
+14/06/2023 15:57:37
+2090 - 6
+14/06/2023 15:57:38
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:57:38
+132 Tipo Cartao:20001
+
+14/06/2023 15:57:53
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 98,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140015
+MU                      14/06/23 15:57
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140015
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 15:57:53
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 98,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140015
+MU                      14/06/23 15:57
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140015
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 15:57:53
+00
+14/06/2023 15:57:54
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:57:54
+132 Tipo Cartao:20001
+
+14/06/2023 15:57:54
+133 NSU do SiTef:140015
+
+14/06/2023 15:57:54
+134 NSU do Host:999140015
+
+14/06/2023 15:57:54
+135 Código de Autorização:140015
+
+14/06/2023 15:57:54
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:57:54
+TipoCampo 2022:2907
+
+14/06/2023 15:57:54
+Case 1: 061414001505
+
+14/06/2023 15:57:54
+Case 1: 061414001505
+
+14/06/2023 15:58:33
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:58:33
+TipoCampo 2022:2907
+
+14/06/2023 15:58:33
+TipoCampo 2023:RABELO/HIGOR R M
+
+14/06/2023 15:58:33
+2090 - 3
+14/06/2023 15:58:35
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:58:35
+132 Tipo Cartao:20001
+
+14/06/2023 15:58:38
+2090 - 3
+14/06/2023 15:58:53
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 5,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140016
+MU                      14/06/23 15:58
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140016
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 15:58:53
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 5,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140016
+MU                      14/06/23 15:58
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140016
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 15:58:53
+00
+14/06/2023 15:58:54
+Rede Destino:Case 131: 00005
+
+14/06/2023 15:58:54
+132 Tipo Cartao:20001
+
+14/06/2023 15:58:54
+133 NSU do SiTef:140016
+
+14/06/2023 15:58:54
+134 NSU do Host:999140016
+
+14/06/2023 15:58:54
+135 Código de Autorização:140016
+
+14/06/2023 15:58:54
+TipoCampo 2021:523284******9840
+
+14/06/2023 15:58:54
+TipoCampo 2022:2907
+
+14/06/2023 15:58:54
+TipoCampo 2023:RABELO/HIGOR R M
+
+14/06/2023 15:58:54
+Case 1: 061414001605
+
+14/06/2023 16:00:05
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:00:05
+TipoCampo 2022:2907
+
+14/06/2023 16:00:05
+2090 - 6
+14/06/2023 16:00:06
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:00:06
+132 Tipo Cartao:20001
+
+14/06/2023 16:00:12
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 4,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140017
+MU                      14/06/23 16:00
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140017
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:00:12
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 4,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140017
+MU                      14/06/23 16:00
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140017
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:00:13
+00
+14/06/2023 16:00:13
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:00:13
+132 Tipo Cartao:20001
+
+14/06/2023 16:00:13
+133 NSU do SiTef:140017
+
+14/06/2023 16:00:13
+134 NSU do Host:999140017
+
+14/06/2023 16:00:13
+135 Código de Autorização:140017
+
+14/06/2023 16:00:13
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:00:13
+TipoCampo 2022:2907
+
+14/06/2023 16:00:13
+Case 1: 061414001705
+
+14/06/2023 16:00:13
+Case 1: 061414001705
+
+14/06/2023 16:02:52
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:02:52
+TipoCampo 2022:2907
+
+14/06/2023 16:02:52
+2090 - 6
+14/06/2023 16:02:53
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:02:53
+132 Tipo Cartao:20001
+
+14/06/2023 16:03:00
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 23,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140018
+MU                      14/06/23 16:02
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140018
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:03:00
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 23,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140018
+MU                      14/06/23 16:02
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140018
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:03:01
+00
+14/06/2023 16:03:01
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:03:01
+132 Tipo Cartao:20001
+
+14/06/2023 16:03:01
+133 NSU do SiTef:140018
+
+14/06/2023 16:03:01
+134 NSU do Host:999140018
+
+14/06/2023 16:03:01
+135 Código de Autorização:140018
+
+14/06/2023 16:03:01
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:03:01
+TipoCampo 2022:2907
+
+14/06/2023 16:03:01
+Case 1: 061414001805
+
+14/06/2023 16:03:01
+Case 1: 061414001805
+
+14/06/2023 16:04:25
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:04:25
+TipoCampo 2022:2907
+
+14/06/2023 16:04:25
+2090 - 6
+14/06/2023 16:04:26
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:04:26
+132 Tipo Cartao:20001
+
+14/06/2023 16:04:31
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 23,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140019
+MU                      14/06/23 16:04
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140019
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:04:31
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 23,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140019
+MU                      14/06/23 16:04
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140019
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:04:31
+00
+14/06/2023 16:04:31
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:04:31
+132 Tipo Cartao:20001
+
+14/06/2023 16:04:31
+133 NSU do SiTef:140019
+
+14/06/2023 16:04:31
+134 NSU do Host:999140019
+
+14/06/2023 16:04:31
+135 Código de Autorização:140019
+
+14/06/2023 16:04:31
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:04:31
+TipoCampo 2022:2907
+
+14/06/2023 16:04:31
+Case 1: 061414001905
+
+14/06/2023 16:04:32
+Case 1: 061414001905
+
+14/06/2023 16:09:27
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:09:27
+TipoCampo 2022:2907
+
+14/06/2023 16:09:27
+2090 - 6
+14/06/2023 16:09:28
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:09:28
+132 Tipo Cartao:20001
+
+14/06/2023 16:09:36
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 21,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140020
+MU                      14/06/23 16:09
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140020
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:09:36
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 21,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140020
+MU                      14/06/23 16:09
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140020
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:09:36
+00
+14/06/2023 16:09:36
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:09:36
+132 Tipo Cartao:20001
+
+14/06/2023 16:09:36
+133 NSU do SiTef:140020
+
+14/06/2023 16:09:36
+134 NSU do Host:999140020
+
+14/06/2023 16:09:36
+135 Código de Autorização:140020
+
+14/06/2023 16:09:37
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:09:37
+TipoCampo 2022:2907
+
+14/06/2023 16:09:37
+Case 1: 061414002005
+
+14/06/2023 16:09:37
+Case 1: 061414002005
+
+14/06/2023 16:10:58
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:10:58
+TipoCampo 2022:2907
+
+14/06/2023 16:10:58
+2090 - 6
+14/06/2023 16:10:59
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:10:59
+132 Tipo Cartao:20001
+
+14/06/2023 16:11:07
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140021
+MU                      14/06/23 16:11
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140021
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:11:08
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140021
+MU                      14/06/23 16:11
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140021
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:11:08
+00
+14/06/2023 16:11:08
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:11:08
+132 Tipo Cartao:20001
+
+14/06/2023 16:11:08
+133 NSU do SiTef:140021
+
+14/06/2023 16:11:08
+134 NSU do Host:999140021
+
+14/06/2023 16:11:08
+135 Código de Autorização:140021
+
+14/06/2023 16:11:08
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:11:08
+TipoCampo 2022:2907
+
+14/06/2023 16:11:08
+Case 1: 061414002105
+
+14/06/2023 16:11:08
+Case 1: 061414002105
+
+14/06/2023 16:11:18
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:11:18
+TipoCampo 2022:2907
+
+14/06/2023 16:11:18
+2090 - 6
+14/06/2023 16:11:19
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:11:19
+132 Tipo Cartao:20001
+
+14/06/2023 16:13:24
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:13:24
+TipoCampo 2022:2907
+
+14/06/2023 16:13:24
+2090 - 6
+14/06/2023 16:13:25
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:13:25
+132 Tipo Cartao:20001
+
+14/06/2023 16:13:34
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140022
+MU                      14/06/23 16:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140022
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:13:35
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 12,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140022
+MU                      14/06/23 16:13
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140022
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:13:35
+00
+14/06/2023 16:13:35
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:13:35
+132 Tipo Cartao:20001
+
+14/06/2023 16:13:35
+133 NSU do SiTef:140022
+
+14/06/2023 16:13:35
+134 NSU do Host:999140022
+
+14/06/2023 16:13:35
+135 Código de Autorização:140022
+
+14/06/2023 16:13:35
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:13:35
+TipoCampo 2022:2907
+
+14/06/2023 16:13:35
+Case 1: 061414002205
+
+14/06/2023 16:13:36
+Case 1: 061414002205
+
+14/06/2023 16:23:30
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:23:30
+TipoCampo 2022:2907
+
+14/06/2023 16:23:30
+2090 - 6
+14/06/2023 16:23:31
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:23:31
+132 Tipo Cartao:20001
+
+14/06/2023 16:23:33
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 14,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140023
+MU                      14/06/23 16:23
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140023
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:23:34
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                        Valor: 14,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140023
+MU                      14/06/23 16:23
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140023
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:23:34
+00
+14/06/2023 16:23:34
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:23:34
+132 Tipo Cartao:20001
+
+14/06/2023 16:23:34
+133 NSU do SiTef:140023
+
+14/06/2023 16:23:34
+134 NSU do Host:999140023
+
+14/06/2023 16:23:34
+135 Código de Autorização:140023
+
+14/06/2023 16:23:34
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:23:34
+TipoCampo 2022:2907
+
+14/06/2023 16:23:34
+Case 1: 061414002305
+
+14/06/2023 16:23:35
+Case 1: 061414002305
+
+14/06/2023 16:25:39
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:25:39
+TipoCampo 2022:2907
+
+14/06/2023 16:25:39
+2090 - 6
+14/06/2023 16:25:40
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:25:40
+132 Tipo Cartao:20001
+
+14/06/2023 16:25:46
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 2,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140024
+MU                      14/06/23 16:25
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140024
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:25:46
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 2,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140024
+MU                      14/06/23 16:25
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140024
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:25:46
+00
+14/06/2023 16:25:47
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:25:47
+132 Tipo Cartao:20001
+
+14/06/2023 16:25:47
+133 NSU do SiTef:140024
+
+14/06/2023 16:25:47
+134 NSU do Host:999140024
+
+14/06/2023 16:25:47
+135 Código de Autorização:140024
+
+14/06/2023 16:25:47
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:25:47
+TipoCampo 2022:2907
+
+14/06/2023 16:25:47
+Case 1: 061414002405
+
+14/06/2023 16:25:47
+Case 1: 061414002405
+
+14/06/2023 16:26:06
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:26:06
+TipoCampo 2022:2907
+
+14/06/2023 16:26:06
+2090 - 6
+14/06/2023 16:26:07
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:26:07
+132 Tipo Cartao:20001
+
+14/06/2023 16:26:13
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 0,45
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140025
+MU                      14/06/23 16:26
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140025
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:26:13
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 0,45
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140025
+MU                      14/06/23 16:26
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140025
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:26:14
+00
+14/06/2023 16:26:14
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:26:14
+132 Tipo Cartao:20001
+
+14/06/2023 16:26:14
+133 NSU do SiTef:140025
+
+14/06/2023 16:26:14
+134 NSU do Host:999140025
+
+14/06/2023 16:26:14
+135 Código de Autorização:140025
+
+14/06/2023 16:26:14
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:26:14
+TipoCampo 2022:2907
+
+14/06/2023 16:26:14
+Case 1: 061414002505
+
+14/06/2023 16:26:14
+Case 1: 061414002505
+
+14/06/2023 16:27:36
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:27:36
+TipoCampo 2022:2907
+
+14/06/2023 16:27:36
+2090 - 6
+14/06/2023 16:27:37
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:27:37
+132 Tipo Cartao:20001
+
+14/06/2023 16:27:40
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140026
+MU                      14/06/23 16:27
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140026
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:27:40
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140026
+MU                      14/06/23 16:27
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140026
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:27:40
+00
+14/06/2023 16:27:40
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:27:40
+132 Tipo Cartao:20001
+
+14/06/2023 16:27:40
+133 NSU do SiTef:140026
+
+14/06/2023 16:27:40
+134 NSU do Host:999140026
+
+14/06/2023 16:27:40
+135 Código de Autorização:140026
+
+14/06/2023 16:27:40
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:27:40
+TipoCampo 2022:2907
+
+14/06/2023 16:27:40
+Case 1: 061414002605
+
+14/06/2023 16:27:41
+Case 1: 061414002605
+
+14/06/2023 16:28:06
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:28:06
+TipoCampo 2022:2907
+
+14/06/2023 16:28:06
+2090 - 6
+14/06/2023 16:28:07
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:28:07
+132 Tipo Cartao:00002
+
+14/06/2023 16:28:09
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140027
+MU                      14/06/23 16:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140027
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:28:10
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140027
+MU                      14/06/23 16:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140027
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:28:10
+00
+14/06/2023 16:28:10
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:28:10
+132 Tipo Cartao:00002
+
+14/06/2023 16:28:10
+133 NSU do SiTef:140027
+
+14/06/2023 16:28:10
+134 NSU do Host:999140027
+
+14/06/2023 16:28:10
+135 Código de Autorização:140027
+
+14/06/2023 16:28:10
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:28:10
+TipoCampo 2022:2907
+
+14/06/2023 16:28:10
+Case 1: 061414002705
+
+14/06/2023 16:28:11
+Case 1: 061414002705
+
+14/06/2023 16:28:29
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:28:29
+TipoCampo 2022:2907
+
+14/06/2023 16:28:29
+2090 - 6
+14/06/2023 16:28:30
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:28:30
+132 Tipo Cartao:20001
+
+14/06/2023 16:28:36
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 3,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140028
+MU                      14/06/23 16:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140028
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:28:36
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 2000
+DO                         Valor: 3,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140028
+MU                      14/06/23 16:28
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140028
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:28:36
+00
+14/06/2023 16:28:36
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:28:36
+132 Tipo Cartao:20001
+
+14/06/2023 16:28:36
+133 NSU do SiTef:140028
+
+14/06/2023 16:28:36
+134 NSU do Host:999140028
+
+14/06/2023 16:28:36
+135 Código de Autorização:140028
+
+14/06/2023 16:28:36
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:28:36
+TipoCampo 2022:2907
+
+14/06/2023 16:28:36
+Case 1: 061414002805
+
+14/06/2023 16:28:37
+Case 1: 061414002805
+
+14/06/2023 16:38:46
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:38:46
+TipoCampo 2022:2907
+
+14/06/2023 16:38:46
+2090 - 6
+14/06/2023 16:38:47
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:38:47
+132 Tipo Cartao:00002
+
+14/06/2023 16:38:49
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140029
+MU                      14/06/23 16:38
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140029
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:38:50
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140029
+MU                      14/06/23 16:38
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140029
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:38:50
+00
+14/06/2023 16:38:50
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:38:50
+132 Tipo Cartao:00002
+
+14/06/2023 16:38:50
+133 NSU do SiTef:140029
+
+14/06/2023 16:38:50
+134 NSU do Host:999140029
+
+14/06/2023 16:38:50
+135 Código de Autorização:140029
+
+14/06/2023 16:38:50
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:38:50
+TipoCampo 2022:2907
+
+14/06/2023 16:38:50
+Case 1: 061414002905
+
+14/06/2023 16:38:51
+Case 1: 061414002905
+
+14/06/2023 16:38:59
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:38:59
+TipoCampo 2022:2907
+
+14/06/2023 16:38:59
+2090 - 6
+14/06/2023 16:39:00
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:39:00
+132 Tipo Cartao:00002
+
+14/06/2023 16:39:03
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140030
+MU                      14/06/23 16:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140030
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:39:03
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140030
+MU                      14/06/23 16:39
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140030
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:39:03
+00
+14/06/2023 16:39:03
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:39:03
+132 Tipo Cartao:00002
+
+14/06/2023 16:39:03
+133 NSU do SiTef:140030
+
+14/06/2023 16:39:03
+134 NSU do Host:999140030
+
+14/06/2023 16:39:03
+135 Código de Autorização:140030
+
+14/06/2023 16:39:03
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:39:03
+TipoCampo 2022:2907
+
+14/06/2023 16:39:03
+Case 1: 061414003005
+
+14/06/2023 16:39:04
+Case 1: 061414003005
+
+14/06/2023 16:43:25
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:43:25
+TipoCampo 2022:2907
+
+14/06/2023 16:43:25
+2090 - 6
+14/06/2023 16:43:26
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:43:26
+132 Tipo Cartao:00002
+
+14/06/2023 16:43:29
+Case 121: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140031
+MU                      14/06/23 16:43
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140031
+MU         Transacao Simulada Aprovada
+LA                 SALDO DISP.    0,02
+                               (SiTef)
+
+
+14/06/2023 16:43:29
+Case 122: .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 8,00
+.....S...I...M...U...L...A...D...O....
+SI                   NSU SiTef: 140031
+MU                      14/06/23 16:43
+LA                    ID PDV: sd123456
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999140031
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+
+14/06/2023 16:43:29
+00
+14/06/2023 16:43:29
+Rede Destino:Case 131: 00005
+
+14/06/2023 16:43:29
+132 Tipo Cartao:00002
+
+14/06/2023 16:43:29
+133 NSU do SiTef:140031
+
+14/06/2023 16:43:29
+134 NSU do Host:999140031
+
+14/06/2023 16:43:29
+135 Código de Autorização:140031
+
+14/06/2023 16:43:29
+TipoCampo 2021:523284******9840
+
+14/06/2023 16:43:29
+TipoCampo 2022:2907
+
+14/06/2023 16:43:29
+Case 1: 061414003105
+
+14/06/2023 16:43:30
+Case 1: 061414003105
+

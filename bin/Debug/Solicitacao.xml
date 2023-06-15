@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Solicitacao</name>
+    </assembly>
+    <members>
+        <member name="F:Solicitacao.Aplicativo.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.Aplicativo.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Solicitacao.Aplicativo.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Solicitacao.app.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.app.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Solicitacao.app.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Solicitacao.Configuracao.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.Configuracao.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Solicitacao.Configuracao.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Solicitacao.Form1.components">
+            <summary>
+            Variável de designer necessária.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.Form1.Dispose(System.Boolean)">
+            <summary>
+            Limpar os recursos que estão sendo usados.
+            </summary>
+            <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
+        </member>
+        <member name="M:Solicitacao.Form1.InitializeComponent">
+            <summary>
+            Método necessário para suporte ao Designer - não modifique 
+            o conteúdo deste método com o editor de código.
+            </summary>
+        </member>
+        <member name="F:Solicitacao.Homologacao.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.Homologacao.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Solicitacao.Homologacao.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Solicitacao.Operacoes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.Operacoes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Solicitacao.Operacoes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.Program.Main">
+            <summary>
+            Ponto de entrada principal para o aplicativo.
+            </summary>
+        </member>
+        <member name="F:Solicitacao.TefPagamento.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Solicitacao.TefPagamento.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Solicitacao.TefPagamento.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Solicitacao.Properties.Resources">
+            <summary>
+              Uma classe de recurso fortemente tipados, para pesquisar cadeias de caracteres localizadas etc.
+            </summary>
+        </member>
+        <member name="P:Solicitacao.Properties.Resources.ResourceManager">
+            <summary>
+              Retorna a instância cacheada de ResourceManager utilizada por esta classe.
+            </summary>
+        </member>
+        <member name="P:Solicitacao.Properties.Resources.Culture">
+            <summary>
+              Substitui a propriedade CurrentUICulture do thread atual para todas
+              as pesquisas de recursos que usam esta classe de recursos fortemente tipados.
+            </summary>
+        </member>
+    </members>
+</doc>
