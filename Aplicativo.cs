@@ -22,13 +22,13 @@ namespace Solicitacao {
         private PrintDialog pd = new PrintDialog();
         private PrintDocument printDocument = new PrintDocument();
         public static bool visualizar;
-        
         public Aplicativo() {
             InitializeComponent();
-            string caminho = Directory.GetCurrentDirectory() + "\\Requisicao\\";
+            string caminho = Application.StartupPath + "\\Requisicao\\";
             string filtro = "req.tx3";
             Monitor.MonitorarArquivo(caminho, filtro);
            // MonitorSistema.MonitorarArquivo(Application.StartupPath, "id.bra");
+            
             resetaConfiguracao();
         }
 
@@ -62,6 +62,7 @@ namespace Solicitacao {
         }
 
         private void button1_Click(object sender, EventArgs e) {
+            Servicos.btn(true);
             Pagamento paga = new Pagamento(110,"0","0","0000000","0000","Operador","");
             Servicos.EfetuarPagamento(paga);
         }
@@ -129,6 +130,7 @@ namespace Solicitacao {
         }
 
         private void button3_Click(object sender, EventArgs e) {
+            Servicos.btn(true);
             Pagamento paga = new Pagamento(200, "0", "0", "0000000", "0000", "Operador", "");
             Servicos.EfetuarPagamento(paga);
         }
@@ -149,6 +151,47 @@ namespace Solicitacao {
 
         private void Aplicativo_Load(object sender, EventArgs e) {
           
+        }
+
+        private void menuGerencial_Click(object sender, EventArgs e) {
+            Servicos.btn(true);
+            Pagamento paga = new Pagamento(110, "0", "0", "0000000", "0000", "Operador", "");
+            Servicos.EfetuarPagamento(paga);
+        }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e) {
+            Form1 form = new Form1();
+            form.ShowDialog();
+        }
+
+        private void sairToolStripMenuItem1_Click(object sender, EventArgs e) {
+            Application.Exit();
+        }
+
+        private void pagamentoManual_Click(object sender, EventArgs e) {
+            Servicos.btn(true);
+            string valor = Servicos.EntradaDadosUsuarioStr("Digite o Valor do Pagamento");
+            Pagamento paga = new Pagamento(0, valor, codigoCupom(), ano + mes + dia, hora, "Operador", "");
+            Servicos.EfetuarPagamento(paga);
+            Servicos.salvarArquivo();
+
+            if (Servicos.status) {
+                printDocument.PrintPage += PaginaImpressa;
+                if (pd.ShowDialog() == DialogResult.OK) printDocument.Print();
+                Servicos.arquivoResposta(Encoding.ASCII.GetString(paga.getCupomFiscal()), Encoding.ASCII.GetString(paga.getValor()), Servicos.status);
+            }
+            Servicos.arquivoResposta(Encoding.ASCII.GetString(paga.getCupomFiscal()), Encoding.ASCII.GetString(paga.getValor()), Servicos.status);
+        }
+
+        private void cancelaOperaccao_Click(object sender, EventArgs e) {
+            Servicos.btn(true);
+            Pagamento paga = new Pagamento(200, "0", "0", "0000000", "0000", "Operador", "");
+            Servicos.EfetuarPagamento(paga);
+        }
+
+        private void configTotem_Click(object sender, EventArgs e) {
+            Configuracao config = new Configuracao();
+            config.ShowDialog();
         }
     }
 }

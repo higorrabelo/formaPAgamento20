@@ -25,6 +25,8 @@ namespace Solicitacao {
         private static string valor;
         private static string cancelamento;
         public static bool btnVar;
+        private static string nsuHost;
+        private static string nsuSitef;
         public static string CodigoConfiguracao(int i) {
             string resposta = "";
             switch (i) {
@@ -290,6 +292,7 @@ namespace Solicitacao {
                 case 133:
                     //System.Windows.Forms.MessageBox.Show("Tipo Cartao: [" + mensagem.ToString() + "]", "RotinaResultado");
                     criarLog("133 NSU do SiTef:" + mensagem.ToString() + "\n");
+                    nsuSitef = mensagem.ToString();
                     //CliSitef.EscreveMensagemPinPad("133 NSU do SiTef: " + mensagem.ToString() + "\n");
                     passos.Add(tipo + "Tipo Resultado NSU do SiTef: " + mensagem.ToString());
                     break;
@@ -297,6 +300,7 @@ namespace Solicitacao {
                 case 134:
                     //System.Windows.Forms.MessageBox.Show("Tipo Cartao: [" + mensagem.ToString() + "]", "RotinaResultado");
                     criarLog("134 NSU do Host:" + mensagem.ToString() + "\n");
+                    nsuHost = mensagem.ToString();
                     //CliSitef.EscreveMensagemPinPad("Case 134: " + mensagem.ToString() + "\n");
                     passos.Add(tipo + " Tipo Resultado NSU host:" + "  -  " + mensagem.ToString());
                     break;
@@ -825,7 +829,7 @@ namespace Solicitacao {
             return TefPagamento.retornaString();
         }
         public static void arquivoResposta(string codigo, string valor, bool status) {
-            string conteudo = $"{{\r\n   \"operacao\":{{\r\n            \"codigo\":\"{codigo}\",\r\n            \"valor\": \"{valor}\",\r\n            \"status\":{status.ToString().ToLower()}\r\n            }}\r\n}}";
+            string conteudo = $"{{\r\n   \"operacao\":{{\r\n            \"codigo\":\"{codigo}\",\r\n            \"valor\": \"{valor}\",\r\n            \"status\":{status},\r\n            \"nsuHost\":\"{nsuHost}\",\r\n            \"nsuSitef\":\"{nsuSitef}\"\r\n            }}\r\n}}";
             StreamWriter sw = new StreamWriter(Application.StartupPath + @"\Resposta\resp.json");
             try {
 

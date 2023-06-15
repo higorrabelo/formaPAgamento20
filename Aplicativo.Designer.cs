@@ -42,9 +42,18 @@
             this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.menuGerencial = new System.Windows.Forms.ToolStripMenuItem();
+            this.pagamentoManual = new System.Windows.Forms.ToolStripMenuItem();
+            this.cancelaOperaccao = new System.Windows.Forms.ToolStripMenuItem();
+            this.configTotem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -175,7 +184,7 @@
             // avançadoToolStripMenuItem
             // 
             this.avançadoToolStripMenuItem.Name = "avançadoToolStripMenuItem";
-            this.avançadoToolStripMenuItem.Size = new System.Drawing.Size(158, 26);
+            this.avançadoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.avançadoToolStripMenuItem.Text = "Avançado";
             this.avançadoToolStripMenuItem.Click += new System.EventHandler(this.avançadoToolStripMenuItem_Click);
             // 
@@ -191,9 +200,72 @@
             // 
             // notifyIcon1
             // 
+            this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
             this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
             this.notifyIcon1.Text = "Bra Pagamentos";
             this.notifyIcon1.Visible = true;
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.menuGerencial,
+            this.pagamentoManual,
+            this.cancelaOperaccao,
+            this.configTotem,
+            this.toolStripMenuItem2,
+            this.toolStripMenuItem3,
+            this.sairToolStripMenuItem1});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(211, 154);
+            this.contextMenuStrip1.Text = "Bra Pagamentos";
+            // 
+            // menuGerencial
+            // 
+            this.menuGerencial.Name = "menuGerencial";
+            this.menuGerencial.Size = new System.Drawing.Size(210, 24);
+            this.menuGerencial.Text = "Menu Gerencial";
+            this.menuGerencial.Click += new System.EventHandler(this.menuGerencial_Click);
+            // 
+            // pagamentoManual
+            // 
+            this.pagamentoManual.Name = "pagamentoManual";
+            this.pagamentoManual.Size = new System.Drawing.Size(210, 24);
+            this.pagamentoManual.Text = "Pagamento Manual";
+            this.pagamentoManual.Click += new System.EventHandler(this.pagamentoManual_Click);
+            // 
+            // cancelaOperaccao
+            // 
+            this.cancelaOperaccao.Name = "cancelaOperaccao";
+            this.cancelaOperaccao.Size = new System.Drawing.Size(210, 24);
+            this.cancelaOperaccao.Text = "Cancelar Operações";
+            this.cancelaOperaccao.Click += new System.EventHandler(this.cancelaOperaccao_Click);
+            // 
+            // configTotem
+            // 
+            this.configTotem.Name = "configTotem";
+            this.configTotem.Size = new System.Drawing.Size(210, 24);
+            this.configTotem.Text = "Configurações";
+            this.configTotem.Click += new System.EventHandler(this.configTotem_Click);
+            // 
+            // toolStripMenuItem2
+            // 
+            this.toolStripMenuItem2.Name = "toolStripMenuItem2";
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(207, 6);
+            // 
+            // toolStripMenuItem3
+            // 
+            this.toolStripMenuItem3.Name = "toolStripMenuItem3";
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(210, 24);
+            this.toolStripMenuItem3.Text = "Avançado";
+            this.toolStripMenuItem3.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
+            // 
+            // sairToolStripMenuItem1
+            // 
+            this.sairToolStripMenuItem1.Name = "sairToolStripMenuItem1";
+            this.sairToolStripMenuItem1.Size = new System.Drawing.Size(210, 24);
+            this.sairToolStripMenuItem1.Text = "Sair";
+            this.sairToolStripMenuItem1.Click += new System.EventHandler(this.sairToolStripMenuItem1_Click);
             // 
             // Aplicativo
             // 
@@ -207,12 +279,14 @@
             this.Name = "Aplicativo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bra Pagamentos Administrativo";
+            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.Load += new System.EventHandler(this.Aplicativo_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -236,5 +310,13 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.NotifyIcon notifyIcon1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem menuGerencial;
+        private System.Windows.Forms.ToolStripMenuItem pagamentoManual;
+        private System.Windows.Forms.ToolStripMenuItem cancelaOperaccao;
+        private System.Windows.Forms.ToolStripMenuItem configTotem;
+        private System.Windows.Forms.ToolStripSeparator toolStripMenuItem2;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem3;
+        private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem1;
     }
 }

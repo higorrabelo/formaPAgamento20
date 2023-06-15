@@ -19,7 +19,7 @@ namespace Solicitacao {
                 arquivo = new FileSystemWatcher(caminho, filtro) {
                     IncludeSubdirectories = false
                 };     
-                        arquivo.Created += AnalisaArquivo;
+                        arquivo.Changed += AnalisaArquivo;
             
                 
                 arquivo.EnableRaisingEvents = true;
@@ -43,6 +43,7 @@ namespace Solicitacao {
             string local = Application.StartupPath + @"\Resposta\temp.json";
             string conteudo = $"{{\r\n    \"status\":\"true\"\r\n}}";
             Servicos.criarArquivo(conteudo, local);
+
 
         }
         private void impressãoToolStripMenuItem_Click(object sender, EventArgs e) {

@@ -1,14 +1,1 @@
-.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
-SI                              Rede 5
-MU               Codigo transacao: 200
-LA               Codigo operacao: 2000
-DO                         Valor: 3,00
-.....S...I...M...U...L...A...D...O....
-SI                   NSU SiTef: 140028
-MU                      14/06/23 16:28
-LA                    ID PDV: sd123456
-DO             Estab.: 000000000000005
-.....S...I...M...U...L...A...D...O....
-SI                     Host: 999140028
-MU         Transacao Simulada Aprovada
-                               (SiTef)
+Reimpressão de Cupom

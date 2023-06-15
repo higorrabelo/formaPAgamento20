@@ -1,7 +1,9 @@
 {
    "operacao":{
-            "codigo":"202305190845",
-            "valor": "8,00",
-            "status":true
+            "codigo":"13014213",
+            "valor": "13,00",
+            "status":True,
+            "nsuHost":"999150023",
+            "nsuSitef":"150023"
             }
 }
